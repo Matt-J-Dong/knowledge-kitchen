@@ -3,6 +3,6 @@ github-repo-name: amos-web-site
 baseurl: /~ab1258/tmp
 title: Amos Bloomberg
 description: >
-  Professor and practitioner of computer science
+  Professor and practitioner of computer science, design, and development.
 copyright: GNU General Public License, Version 3
 layouts_dir: assets/jekyll/_layouts/
