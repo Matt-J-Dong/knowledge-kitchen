@@ -6,3 +6,5 @@ description: >
   Professor and practitioner of computer science, design, and development.
 copyright: GNU General Public License, Version 3
 layouts_dir: assets/jekyll/_layouts/
+plugins:
+  - "jekyll-github-metadata"
