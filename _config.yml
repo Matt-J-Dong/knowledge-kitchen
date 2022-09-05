@@ -1,5 +1,6 @@
 github-org-name: bloombar
 github-repo-name: amos-web-site
+repository: bloombar/amos-web-site
 baseurl: /~ab1258/tmp
 title: Amos Bloomberg
 description: >
