@@ -7,6 +7,7 @@ permalink: /
 # Amos Bloomberg
 
 ![Amos Bloomberg, circa 2015](https://knowledge.kitchen/mediawiki/images/5/5b/Amos_Bloomberg_headshot.jpg)
+
 As a professor who practices what he preaches, Amos has over 20 years' experience building things, both practical and whimsical. His most rewarding professional validation to date was standing on a crowded NYC subway surreptitiously looking down at a seated passenger reading a Metro newspaper article about himself and his work. That happened only once, though Amos has been responsible for the research, strategy, design, and implementation of dozens of popular apps, websites, and marketing campaigns on behalf of a wide range of clients, from the UN to Facebook and Microsoft, from Amex to Juicy Couture, from MTV to Amazon, and on to small non-profits and tech startups whose names are rightly forgotten to history. His own award-winning non-commercial creative work has been featured in Forbes, the New York Times, the Village Voice, and Wired, etc, etc.
 
 Amos began programming games on his dad's computer for fun at the age of 12. He now holds a Master's from NYU's prestigious Interactive Telecommunications Program, and received the first-ever Bachelor's in Brain & Cognitive Sciences from the University of Rochester.
