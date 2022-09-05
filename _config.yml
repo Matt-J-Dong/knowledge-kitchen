@@ -1,7 +1,7 @@
 github-org-name: bloombar
 github-repo-name: amos-web-site
 repository: bloombar/amos-web-site
-baseurl: /~ab1258/tmp
+baseurl: https://i6.cims.nyu.edu/~ab1258/tmp
 title: Amos Bloomberg
 description: >
   Professor and practitioner of computer science, design, and development.
