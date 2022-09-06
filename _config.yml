@@ -9,6 +9,7 @@ description: >
 copyright: GNU General Public License, Version 3
 layouts_dir: theme/_layouts/
 plugins:
+  - jekyll-feed
   - jekyll-github-metadata
   - jekyll-seo-tag
 defaults:
@@ -22,3 +23,8 @@ defaults:
       type: pages
     values:
       layout: presentation
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: github
