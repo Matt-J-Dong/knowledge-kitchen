@@ -1,7 +1,8 @@
 github-org-name: bloombar
 github-repo-name: amos-web-site
 repository: bloombar/amos-web-site
-baseurl: https://i6.cims.nyu.edu/~ab1258/tmp
+url: https://i6.cims.nyu.edu/~ab1258/tmp
+baseurl: /~ab1258/tmp
 title: Amos Bloomberg
 description: >
   Professor and practitioner of computer science, design, and development.
@@ -9,3 +10,14 @@ copyright: GNU General Public License, Version 3
 layouts_dir: assets/jekyll/_layouts/
 plugins:
   - "jekyll-github-metadata"
+defaults:
+  - scope:
+      path: "content"
+      type: pages
+    values:
+      layout: github
+  - scope:
+      path: "slides"
+      type: pages
+    values:
+      layout: presentation

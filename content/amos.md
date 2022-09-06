@@ -1,12 +1,11 @@
 ---
-layout: github
 title: Amos Bloomberg
 permalink: /
 ---
 
 # Amos Bloomberg
 
-![Amos Bloomberg, circa 2015](https://knowledge.kitchen/mediawiki/images/5/5b/Amos_Bloomberg_headshot.jpg)
+![Amos Bloomberg, circa 2015]({{site.baseurl}}/content/images/amos/amos_bloomberg_headshot.jpg)
 
 As a professor who practices what he preaches, Amos has over 20 years' experience building things, both practical and whimsical. His most rewarding professional validation to date was standing on a crowded NYC subway surreptitiously looking down at a seated passenger reading a Metro newspaper article about himself and his work. That happened only once, though Amos has been responsible for the research, strategy, design, and implementation of dozens of popular apps, websites, and marketing campaigns on behalf of a wide range of clients, from the UN to Facebook and Microsoft, from Amex to Juicy Couture, from MTV to Amazon, and on to small non-profits and tech startups whose names are rightly forgotten to history. His own award-winning non-commercial creative work has been featured in Forbes, the New York Times, the Village Voice, and Wired, etc, etc.
 
@@ -31,7 +30,7 @@ New York, NY 10012<br />
 
 ### Open office hours
 
-- Mondays 3:30 - 5:30PM and by appointment
+- Wednesdays 3:30 - 5:30PM and by appointment.
 
 ## Teaching Experience
 
