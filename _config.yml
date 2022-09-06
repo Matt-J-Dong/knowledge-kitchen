@@ -10,6 +10,7 @@ copyright: GNU General Public License, Version 3
 layouts_dir: assets/jekyll/_layouts/
 plugins:
   - "jekyll-github-metadata"
+  - jekyll-seo-tag
 defaults:
   - scope:
       path: "content"
