@@ -1,6 +1,7 @@
 ---
 title: Testing
 permalink: /foo
+layout: github
 ---
 
 # Testing
