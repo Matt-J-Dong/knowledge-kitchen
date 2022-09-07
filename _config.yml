@@ -6,12 +6,19 @@ baseurl: /~ab1258/tmp
 title: Amos Bloomberg
 description: >
   Professor and practitioner of computer science, design, and development.
+page-categories: [
+    posts,
+    food-and-drink,
+    architecture,
+    consulting,
+    education,
+    letters,
+    music,
+    family,
+    me,
+  ] # poems
 copyright: GNU General Public License, Version 3
 layouts_dir: theme/_layouts/
-plugins:
-  - jekyll-feed
-  - jekyll-github-metadata
-  - jekyll-seo-tag
 defaults:
   - scope:
       path: "content"
@@ -28,3 +35,7 @@ defaults:
       type: posts
     values:
       layout: github
+plugins:
+  - jekyll-feed
+  - jekyll-github-metadata
+  - jekyll-seo-tag
