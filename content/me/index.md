@@ -129,24 +129,24 @@ Bachelors in [Brain & Cognitive Sciences](http://www.bcs.rochester.edu/about/ove
 
 ### Winemaking
 
-Master vintner at [Château Bloomberg](https://knowledge.kitchen/Château Bloomberg).
+Master vintner at [Château Bloomberg]({{ site.baseurl }}/food-and-drink/château-bloomberg/.
 
 ### Movement
 
-Waking, [running, biking](https://knowledge.kitchen/The official exercise history of Amos Bloomberg), skiing. On occasion, I break out the old unicycle, but mostly I ride my electric wheel.
+Waking, [running, biking]({{ site.baseurl }}/me/exercise-history), skiing. On occasion, I break out the old unicycle, but mostly I ride my electric wheel.
 
 ### Domestic construction
 
 - Arts & Crafts home restoration
-- [Sauna design](https://knowledge.kitchen/Banya design)
+- [Sauna design]({{ site.baseurl }}//architecture/banya-design/)
 
 ### Music
 
-Studied classical guitar for many years, first with private instruction from a professor from the [Manhattan School of Music] and then at the [https://www.esm.rochester.edu/ Eastman School of Music]. Years ago, I used to occasionally release experimental concept albums, including [[Normal Music For Strange People]] and [[The Complete Dance Party]](https://www.msmnyc.edu/).
+Studied classical guitar for many years, first with private instruction from a professor from the [Manhattan School of Music](https://www.msmnyc.edu/) and then at the [Eastman School of Music](https://www.esm.rochester.edu/). Years ago, I used to occasionally release experimental concept albums, including [Normal Music For Strange People]({{ site.baseurl }}/music/normal-music-for-strange-people/) and [The Complete Dance Party]({{ site.baseurl }}/music/the-complete-dance-party/).
 
 ### Service
 
-- Advisor, Bicycle & Pedestrian Committee, village of [Croton-on-Hudson](http://village.croton-on-hudson.ny.us), NY
+- Advisor, [Bicycle & Pedestrian Committee](https://github.com/croton-on-hudson/bicycle-pedestrian-committee), village of [Croton-on-Hudson](http://village.croton-on-hudson.ny.us), NY
 - Campaign Manager, [Andy Maskin](http://andyforks.com)'s 2018 run for Governor of Kansas
 
 ## Awards & Honors
