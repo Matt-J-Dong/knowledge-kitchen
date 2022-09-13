@@ -4,6 +4,8 @@ permalink: /architecture/banya-design/
 categories: [architecture]
 ---
 
+Research on the construction of a Russian banya.
+
 ## Foundation
 
 There are two types of above-ground structural foundations: pier or skid
@@ -44,11 +46,10 @@ There are two types of above-ground structural foundations: pier or skid
 - doesn't need insulation
 - plywood subfloor paint or waterproof sealant
 - durarock covered in a coat of vinyl cement repair, or simple cement tile, cement, tile, or something that won't absorb water on top
-
 - duckboard floors are often placed on top
-- removable sections of 1"x3" or 1"x4" wooden slats with 1/2" spacing between the slats
+  - removable sections of 1"x3" or 1"x4" wooden slats with 1/2" spacing between the slats
 - cut shower drain in center, ideally sloping floor towards drain
-- can use vinyl cement patch 40lb and trowel it onto subfloor 3/4" around perimter, sloped to 1/4" at drain
+- can use vinyl cement patch 40lb and trowel it onto subfloor 3/4" around perimeter, sloped to 1/4" at drain
 
 ## Framing
 
