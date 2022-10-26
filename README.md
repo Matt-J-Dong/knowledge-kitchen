@@ -1,3 +1,5 @@
+![GitHub Pages badge](https://github.com/bloombar/amos-web-site/actions/workflows/deploy-site-to-i6/badge.svg)
+
 # Personal web site
 
 Code to generate and automatically deploy a simple personal website.
