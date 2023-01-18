@@ -4,7 +4,7 @@ permalink: /music/monotonic/
 categories: [music]
 ---
 
-Circa 1996. Recorded on a [https://en.wikipedia.org/wiki/Portastudio Tascam Portastudio] 424 analog 4-track cassette recorder.
+Circa 1996. Recorded on a [Tascam Portastudio](https://en.wikipedia.org/wiki/Portastudio) 424 analog 4-track cassette recorder.
 
 Tracks:
 
