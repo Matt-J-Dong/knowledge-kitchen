@@ -3,6 +3,7 @@ github-repo-name: amos-web-site
 repository: bloombar/amos-web-site
 url: https://i6.cims.nyu.edu/~ab1258/tmp
 baseurl: /~ab1258/tmp
+permalink: pretty
 title: Amos Bloomberg
 description: >
   Professor and practitioner of computer science, design, and development.
@@ -12,6 +13,7 @@ page-categories: [
     architecture,
     consulting,
     education,
+    teaching,
     letters,
     music,
     family,
@@ -21,17 +23,17 @@ copyright: GNU General Public License, Version 3
 layouts_dir: theme/_layouts/
 defaults:
   - scope:
-      path: "content"
+      path: ""
       type: pages
     values:
       layout: github
   - scope:
-      path: "slides"
+      path: "**/slides"
       type: pages
     values:
       layout: presentation
   - scope:
-      path: "_posts"
+      path: "**/_posts"
       type: posts
     values:
       layout: github
