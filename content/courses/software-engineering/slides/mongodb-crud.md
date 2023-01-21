@@ -359,7 +359,7 @@ name: data-set
 
 ## Save the data file
 
-This set of slides shows examples using a data set about books. To follow along, save the following JSON data into a file named [books.json]({{ site.baseurl }}/slides/files/mongodb/books.json).
+This set of slides shows examples using a data set about books. To follow along, save the following JSON data into a file named [books.json]({{ site.baseurl }}/slid../assets/mongodb/books.json).
 
 ```javascript
 {"title": "Northanger Abbey", "author": "Austen, Jane", "year_written": 1814, "edition": "Penguin", "price":  18.2}
@@ -385,7 +385,7 @@ template: data-set
 
 If you typically connect to the MongoDB database server from a web server, such as **i6** , it's easy to upload the data file to the web server using a Secure File Transfer (SFTP) application like [Cyberduck](https://cyberduck.io/).
 
-![Cyberduck login](../files/mongodb/cyberduck.png)
+![Cyberduck login](../assets/mongodb/cyberduck.png)
 
 ---
 

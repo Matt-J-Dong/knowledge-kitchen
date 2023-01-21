@@ -27,21 +27,24 @@
     <div class="container-lg px-3 my-5 markdown-body">
       <header>
         <small>
-          <a href="https://github.com/{{ site.github.owner_name }}">
-            {{ site.github.owner_name | downcase | strip_html }}
-          </a>
-          /
           <a href="{{ site.baseurl | strip_html }}/">
             <!-- {{ site.github-org-name }} -->
-            {{ site.github.repository_name | strip_html }}
+            {{ site.github-repo-name | strip_html }}
           </a>
-          {% for category in page.categories %} /
+
+          {% if page.collection != "" and page.collection != nil %} /
           <a
-            href="{{ site.baseurl | strip_html }}/categories/{{ category | downcase | strip_html }}"
+            href="{{ site.baseurl | strip_html }}/{{ page.collection | downcase | strip_html }}"
+          >
+            {{ page.collection | downcase | strip_html }}
+          </a>
+          {% else %} {% for category in page.categories %} /
+          <a
+            href="{{ site.baseurl | strip_html }}/{{ category | downcase | strip_html }}"
           >
             {{ category | downcase | strip_html }}
           </a>
-          {% unless forloop.last %} {% endunless %} {% endfor %}
+          {% unless forloop.last %} {% endunless %} {% endfor %} {% endif %}
         </small>
       </header>
 

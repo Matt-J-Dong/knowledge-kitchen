@@ -1,6 +1,6 @@
 ---
 title: Database Design & Implementation
-categories: [teaching]
+categories: [courses]
 ---
 
 > Department of Computer Science

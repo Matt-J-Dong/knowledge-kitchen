@@ -1,10 +1,10 @@
 ---
-title: Knowledge Kitchen
-permalink: /
+title: Other Stuff
+permalink: /other
 ---
 
-{% assign featured_categories = "courses" | split: ", "  %}
-{% assign featured_collections = "" | split: ", "  %}
+{% assign featured_categories = "" | split: ", "  %}
+{% assign featured_collections = "me, domestic-construction, food-and-drink, music" | split: ", "  %}
 
 {% for cat in featured_categories %}<!-- use site.page-categories instead for all categories defined in config -->
 
@@ -14,7 +14,7 @@ permalink: /
   {% for page in site.pages %}
     {% for pc in page.categories %}
     
-      {% if pc == cat and page.name != "index.md" %}
+      {% if pc == cat %}
       
         {% if page.path contains "index.md" %}
           <!-- ignore landing pages -->
@@ -55,4 +55,4 @@ permalink: /
 
 {% endfor %} <!-- col -->
 
-... <a href='{{ "/other" | prepend:site.baseurl  }}'>other</a> stuff
+... <a href='{{ "/" | prepend:site.baseurl  }}'>main</a> stuff

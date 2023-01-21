@@ -240,8 +240,8 @@ template: original-build-tools
 
 See...
 
-- [an example](../files/build-tools/makefile-example1.txt) of a simple `Makefile`.
-- [a slightly more advanced example](../files/build-tools/makefile-example2.txt) that achieves the same build but removes some redundancy.
+- [an example](../assets/build-tools/makefile-example1.txt) of a simple `Makefile`.
+- [a slightly more advanced example](../assets/build-tools/makefile-example2.txt) that achieves the same build but removes some redundancy.
 
 ---
 
@@ -317,7 +317,7 @@ template: java-build-tools
 
 ## Ant (continued again)
 
-See [an example](../files/build-tools/ant-example1.txt) of an Ant `build.xml` file.
+See [an example](../assets/build-tools/ant-example1.txt) of an Ant `build.xml` file.
 
 ---
 
@@ -389,7 +389,7 @@ template: java-build-tools
 
 ## Maven (continued again)
 
-See [an example](../files/build-tools/maven-example1.txt) of a Maven `pom.xml` build file.
+See [an example](../assets/build-tools/maven-example1.txt) of a Maven `pom.xml` build file.
 
 ---
 
@@ -449,7 +449,7 @@ template: java-build-tools
 
 ## Gradle (continued again)
 
-See [an example](../files/build-tools/gradle-example1.txt) of a Gradle `build.gradle` file.
+See [an example](../assets/build-tools/gradle-example1.txt) of a Gradle `build.gradle` file.
 
 ---
 
@@ -509,7 +509,7 @@ template: javascript-build-tools
 - can also include arbitrary scripts that can be run with `npm run <script-name>` or `yarn run <script-name>`
 - startup script is usually called with a simple `npm start` or `yarn start`
 - test scripts are usually run with a simple `npm test` or `yarn test`
-- see [example of a package.json](../files/build-tools/npm-example1.txt) file
+- see [example of a package.json](../assets/build-tools/npm-example1.txt) file
 
 ---
 

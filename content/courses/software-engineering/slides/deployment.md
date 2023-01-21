@@ -101,7 +101,7 @@ template: production-environment
 
 ## Hosting tiers (continued)
 
-![Hosting tiers](../files/deployment/shared-hosting.png)
+![Hosting tiers](../assets/deployment/shared-hosting.png)
 
 ---
 
@@ -161,7 +161,7 @@ template: production environment
 
 ## Cloud deployments (continued)
 
-![Cloud versus VPS](../files/deployment/vps-versus-cloud.png)
+![Cloud versus VPS](../assets/deployment/vps-versus-cloud.png)
 
 ---
 
@@ -171,7 +171,7 @@ name: cloud-deployments
 
 --
 
-![The cloud is just someone else's computer](../files/deployment/the-cloud-someone-else.png)
+![The cloud is just someone else's computer](../assets/deployment/the-cloud-someone-else.png)
 
 ---
 
@@ -220,7 +220,7 @@ template: cloud-deployments
 
 The cloud is often referred to as a "service", with a few common levels of service available to [paying] customers:
 
-![X-as-a-Service](../files/deployment/x-as-a-service.png)
+![X-as-a-Service](../assets/deployment/x-as-a-service.png)
 
 _Image courtesy of Microsoft Azure's "[What is PaaS](https://azure.microsoft.com/en-gb/resources/cloud-computing-dictionary/what-is-paas/)"._
 
@@ -339,7 +339,7 @@ template: kubernetes
 
 ## Components of a Kubernetes cluster
 
-![Kubernetes cluster](../files/deployment/kubernetes-cluster.png)
+![Kubernetes cluster](../assets/deployment/kubernetes-cluster.png)
 
 ---
 

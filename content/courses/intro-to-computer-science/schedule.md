@@ -1,6 +1,6 @@
 ---
 title: Introduction to Computer Science
-categories: [teaching]
+categories: [courses]
 ---
 
 > New York University

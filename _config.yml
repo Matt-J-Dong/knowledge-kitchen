@@ -1,12 +1,12 @@
 github-org-name: bloombar
-github-repo-name: amos-web-site
+github-repo-name: knowledge-kitchen
 repository: bloombar/amos-web-site
 url: https://i6.cims.nyu.edu/~ab1258/tmp
 baseurl: /~ab1258/tmp
 permalink: pretty
-title: Amos Bloomberg
+title: Knowledge Kitchen
 description: >
-  Professor and practitioner of computer science, design, and development.
+  This site contains a somewhat organized collection of notes, mostly prepared for courses I have taught. Agile development & Devops, Software Engineering, Database Design, Web Design, Computer Programming, Computer Science, Physical Computing. Take a look.
 collections:
   musings:
     output: true
@@ -25,15 +25,15 @@ collections:
   # poems:
   #   output: true
 collections_dir: content
-# page-categories: [
+page-categories: [
 #     food-and-drink,
 #     domestic-construction,
 #     consulting,
-#     teaching,
+    courses,
 #     music,
 #     me,
 #     # poems
-#   ]
+  ]
 copyright: GNU General Public License, Version 3
 layouts_dir: theme/_layouts/
 defaults:

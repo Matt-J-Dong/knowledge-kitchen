@@ -1,6 +1,6 @@
 ---
 title: Software Engineering
-categories: [teaching]
+categories: [courses]
 ---
 
 > New York University

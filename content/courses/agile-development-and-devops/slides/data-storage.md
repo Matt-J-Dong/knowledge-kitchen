@@ -323,7 +323,7 @@ Sometimes simple file system storage is all that is needed by an app, for exampl
 
 --
 
-- More demanding file storage needs can be met using a separate remote file storage server, such as [Amazon S3 or Elastic File System](https://aws.amazon.com/products/storage/) or [Azure Files](https://azure.microsoft.com/en-us/services/storage/files/)
+- More demanding file storage needs can be met using a separate remote file storage server, such as [Amazon S3 or Elastic File System](https://aws.amazon.com/products/storage/) or [Azure Files](https://azure.microsoft.com/en-us/services/stora../assets/)
 
 --
 

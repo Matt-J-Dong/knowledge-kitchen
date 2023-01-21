@@ -1,6 +1,6 @@
 ---
 title: Web Design & Computer Principles
-categories: [teaching]
+categories: [courses]
 ---
 
 > New York University

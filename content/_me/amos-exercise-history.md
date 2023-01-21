@@ -4,8 +4,13 @@ categories: [me]
 ---
 
 Recreational running, off-road electric unicycling, and biking while enjoying the scenery is my
-preferred style. I never enjoyed running at all until my 30's. Here are
-a few races I have enjoyed participating in.
+preferred style. I never enjoyed running at all until my 30's. Here are some more details and a few races I have enjoyed participating in.
+
+## Unicycling
+
+After seeing a distant cousin riding a unicycle as a child, I was enthralled and spent countless hours, days, weeks, months teaching myself to ride. Eventually, I began to ride to/from school and all about town. This paused once I entered a high school too far to reach within a reasonable amount of time on one wheel.
+
+Three decades later, I visited a friend who showed me an electric unicycle sitting in his garage. After about 10 minutes riding it, I fell off the wagon and relapsed into a downward spiral of unicycle addiction from which I have not yet recovered. As of the time of this writing, I ride a standard KingSong S18 with an IRC TR-1 knobby tire, enjoying street riding to/from work as well as off-roading on local trails.
 
 ## Harry Chapin 10k Run Against Hunger
 
@@ -16,7 +21,7 @@ beautiful [New Croton Dam](https://en.wikipedia.org/wiki/New_Croton_Dam) and
 surrounding area.
 
 Here is a plot of a few of our family members' performance from 2009 to
-2017, the only years for which I have records:
+2018, the only years for which I have records:
 
 ![Bloomberg family performance in recent Harry Chapin Runs Against Hunger]({{ site.baseurl }}/content/assets/amos/Bloomberg_Family_Performance_in_Recent_Harry_Chapin_Runs_Against_Hunger.png)
 

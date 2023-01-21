@@ -1,6 +1,5 @@
 ---
 title: Amos Bloomberg
-permalink: /me/bio/
 categories: [me]
 ---
 
@@ -29,7 +28,7 @@ New York, NY 10012<br />
 
 ### Open office hours
 
-- Wednesdays 3:30 - 5:30PM and by appointment.
+- TBD and by appointment.
 
 ## Teaching Experience
 
