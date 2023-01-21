@@ -1,5 +1,4 @@
 ---
-layout: presentation
 title: Introduction to React.js
 ---
 

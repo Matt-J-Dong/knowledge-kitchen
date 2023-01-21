@@ -7,18 +7,33 @@ permalink: pretty
 title: Amos Bloomberg
 description: >
   Professor and practitioner of computer science, design, and development.
-page-categories: [
-    posts,
-    food-and-drink,
-    architecture,
-    consulting,
-    education,
-    teaching,
-    letters,
-    music,
-    family,
-    me,
-  ] # poems
+collections:
+  musings:
+    output: true
+  # consulting:
+  #   output: true
+  domestic-construction:
+    output: true
+  # family:
+  #   output: true
+  # food-and-drink:
+  #   output: true
+  me:
+    output: true
+  music:
+    output: true
+  # poems:
+  #   output: true
+collections_dir: content
+# page-categories: [
+#     food-and-drink,
+#     domestic-construction,
+#     consulting,
+#     teaching,
+#     music,
+#     me,
+#     # poems
+#   ]
 copyright: GNU General Public License, Version 3
 layouts_dir: theme/_layouts/
 defaults:
@@ -37,6 +52,55 @@ defaults:
       type: posts
     values:
       layout: github
+  - scope:
+      path: "**/_musings"
+      type: "musings"
+    values:
+      layout: github
+      categories: [musings]
+  - scope:
+      path: "**/_consulting"
+      type: "consulting"
+    values:
+      layout: github
+      categories: [consulting]
+  - scope:
+      path: "**/_domestic-construction"
+      type: "domestic-construction"
+    values:
+      layout: github
+      categories: [domestic-construction]
+  - scope:
+      path: "**/_family"
+      type: "family"
+    values:
+      layout: github
+      categories: [family]
+  - scope:
+      path: "**/_food-and-drink"
+      type: "food-and-drink"
+    values:
+      layout: github
+      categories: [food-and-drink]
+  - scope:
+      path: "**/_me"
+      type: "me"
+    values:
+      layout: github
+      categories: [me]
+  - scope:
+      path: "**/_music"
+      type: "music"
+    values:
+      layout: github
+      categories: [music]
+  - scope:
+      path: "**/_poems"
+      type: "poems"
+    values:
+      layout: github
+      categories: [poems]
+
 plugins:
   - jekyll-feed
   - jekyll-github-metadata

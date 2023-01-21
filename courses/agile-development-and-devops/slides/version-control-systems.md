@@ -1,5 +1,4 @@
 ---
-layout: presentation
 title: Version Control Systems
 ---
 

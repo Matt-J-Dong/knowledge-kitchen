@@ -1,5 +1,4 @@
 ---
-layout: presentation
 title: Exam 1 Review
 ---
 

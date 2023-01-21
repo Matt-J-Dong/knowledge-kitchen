@@ -1,5 +1,4 @@
 ---
-layout: presentation
 title: Feature Branch Version Control Workflow
 ---
 

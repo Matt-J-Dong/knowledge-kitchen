@@ -1,5 +1,4 @@
 ---
-layout: presentation
 title: The Java Paradigm
 ---
 

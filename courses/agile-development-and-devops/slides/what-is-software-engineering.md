@@ -1,5 +1,4 @@
 ---
-layout: presentation
 title: What is Software Engineeering
 ---
 

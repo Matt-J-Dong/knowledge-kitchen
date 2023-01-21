@@ -1,5 +1,4 @@
 ---
-layout: presentation
 title: Multi-Dimensional Arrays
 ---
 

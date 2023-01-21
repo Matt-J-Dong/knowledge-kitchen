@@ -1,5 +1,4 @@
 ---
-layout: presentation
 title: Data Storage For Apps
 ---
 

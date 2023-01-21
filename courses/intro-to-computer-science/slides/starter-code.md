@@ -1,7 +1,5 @@
 ---
-layout: presentation
 title: Starter code
-permalink: /slides/starter-code/
 ---
 
 class: center, middle

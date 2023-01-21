@@ -1,5 +1,4 @@
 ---
-layout: presentation
 ---
 
 class: center, middle

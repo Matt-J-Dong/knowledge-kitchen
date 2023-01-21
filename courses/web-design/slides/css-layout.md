@@ -1,0 +1,511 @@
+---
+title: CSS Web Page Layout
+---
+
+class: center, middle
+
+# Web Page Layout With Cascading Style Sheets
+
+laying out the content of a web page
+
+---
+
+# Agenda
+
+1. [Overview](#overview)
+1. [Container Elements](#containers)
+1. [Calculating Widths](#widths)
+1. [Block vs. Inline Elements](#display)
+1. [A Word About Divs and Spans](#divs-spans)
+1. [Position](#position)
+1. [Grid](#grid)
+1. [Flexbox](#flex)
+1. [Conclusions](#conclusions)
+
+---
+
+name: overview
+
+# Overview
+
+---
+
+template: overview
+name: overview-1
+
+The layout of a web page is controlled by a few simple CSS concepts and rules. In order to get it right, we need to understand a few preliminary concepts.
+
+---
+
+name: containers
+
+# Containers
+
+---
+
+template: containers
+name: containers-1
+
+## The HTML
+
+To center the contents of a web page and to restrict the width of the page, we wrap the entire contents of the paage within a **container** or **wrapper** element.
+
+```html
+...
+<body>
+  <div class="container">
+    <!-- put the contents of your page within this element -->
+  </div>
+</body>
+...
+```
+
+---
+
+template: containers
+name: containers-2
+
+## Restrict the page width
+
+Now, we can easily restrict the page width to whatever width we like by adjusting this container's width.
+
+```css
+.container {
+  width: 800px; /* you choose the width */
+}
+```
+
+---
+
+template: containers
+name: containers-2
+
+## Center the contents
+
+We can also easily center the entire page within the browser's _viewport_ using margins.
+
+```css
+.container {
+  width: 800px; /* container width must be smaller than the browser viewport width */
+  /* equal margins on the left and right side of the containere */
+  margin-left: auto;
+  margin-right: auto;
+}
+```
+
+---
+
+template: containers
+name: containers-3
+
+## Warning: avoid setting heights
+
+The height of the container, or any element for that matter, will always automatically adjust to fit the height of the contents you put within it.
+
+If you were to set the height of an element to a fixed size, yet place more content nested within that element than can fit in that size, your layout would become corrupted.
+
+---
+
+name: widths
+
+# Calculating Widths
+
+---
+
+template: widths
+name: widths-1
+
+## The question
+
+The width of an element can be a bit counter-intuitive to calculate.
+
+Take this HTML:
+
+```html
+<article class="boxy">...</article>
+```
+
+And this CSS:
+
+```css
+.boxy {
+  width: 400px;
+  border: 1px solid red;
+  padding: 20px;
+  margin: 10px;
+  background-color: pink;
+}
+```
+
+What's the width of the `article` element?
+
+---
+
+template: widths
+name: widths-2
+
+## An answer
+
+The actual width of an element includes:
+
+- the _width_ of the element!
+- any _border_ applied to either side of it
+- any _padding_ applied to either side of it
+
+```
+actual width = width +
+               left border + right border +
+               left padding + right padding
+```
+
+---
+
+template: widths
+name: widths-3
+
+## Another answer
+
+The space consumed by an element also includes:
+
+- any _margin_ applied to either side of it
+
+```
+actual width =  width +
+                left border + right border +
+                left padding + right padding +
+                left margin + right margin
+```
+
+---
+
+name: block-inline
+
+# Block vs. Inline Elements
+
+---
+
+template: block-inline
+name: block-inline-1
+
+## Concept
+
+Layout behavior of HTML elements is largely determined by the value of their CSS `display` property. Let's focus first on 3 of these:
+
+...
+
+```css
+display: block;
+```
+
+```css
+display: inline;
+```
+
+```css
+display: none;
+```
+
+...
+
+Wwe will discuss two more important `display` values, [`grid`](#grid) and [`flex`](#flex), later.
+
+---
+
+template: block-inline
+name: block-inline-2
+
+## Common block elements
+
+By default, the `display` property is set to `block` for many elements, including:
+
+- `header`
+- `footer`
+- `main`
+- `aside`
+- `article`
+- `section`
+- `h1` - `h6`
+- `p`
+- `ul` and `ol`
+- `li`
+- `div`
+- ... and more
+
+---
+
+template: block-inline
+name: block-inline-3
+
+## Block element behavior
+
+The `display: block` setting causes the elements to have the following behavior:
+
+- consume as much width as they can within their containing element
+- refuse to sit side-by-side with other elements
+
+---
+
+template: block-inline
+name: block-inline-4
+
+## Common inline elements
+
+By default, the `display` property is set to `inline` for many text-related elements and images, including:
+
+- `a`
+- `strong`
+- `em`
+- `img`
+- `span`
+- ... and more
+
+---
+
+template: block-inline
+name: block-inline-5
+
+## Inline element behavior
+
+The `inline` value will cause the elements to have the following behavior:
+
+- consume only as much width as they need to surround the contents nested within them.
+- happily sit side-by-side with other elements.
+
+---
+
+template: block-inline
+name: block-inline-6
+
+## Effects
+
+The block/inline difference means that...
+
+- we cannot set the widths of inline elements
+- we also cannot set the left or right padding of inline elements
+- we must use `block` elements to build the structure or skeleton of our web pages
+- we will have to do extra work to get block elements to sit side-by-side
+- inline elements will be used only to style bits of text and images.
+
+---
+
+name: divs-spans
+
+# A Word About Divs and Spans
+
+---
+
+template: divs-spans
+name: divs-spans-1
+
+## Concept
+
+There are two elements we will frequently use that have no semantic meaning:
+
+- `div` - a `block` element with no semantic meaning
+- `span` - an `inline` element with no semantic meaning
+
+These are useful when you want to surround some content that you want to apply a style to, but you don't want to adjust that content's semantic meaning.
+
+- So much for the much-touted _separation of concerns_!
+
+---
+
+name: position
+
+# Position
+
+---
+
+template: position
+name: position-1
+
+## Positioning using the CSS position property
+
+It is sometimes tempting to use the CSS position property to position elements on the page... it sounds like this is what the property is intended for.
+
+The CSS `position` property can take three values:
+
+- `static` - keep the element at its default position on the page
+- `relative` - allows us to move the element from its static position by a particular number of pixels in the `top` or `left` directions
+- `absolute` - allows us to absolutely position an element relative to the top-left corner of the page
+- `fixed` - allows us to have an element stuck in the browser viewport at a specific position relative to the top-left corner of the viewport.
+
+---
+
+template: position
+name: position-2
+
+## Do not use these for general web page layout.
+
+These `position` values are useful in some specific advanced contexts, but should never be used to layout the positions of all the main parts of a web page.
+
+- They make a site difficult to design and maintain.
+
+You have now been warned. Don't use them.
+
+---
+
+name: grid
+
+# CSS Grid
+
+--
+
+## The skeleton of web layout
+
+The **CSS Grid** system is typically used to create the main skeletal structure of web pages. This involves the following:
+
+1. put a [container element](#containers) around the content you want to lay out
+1. set the container element to have a `display` value of `grid`
+1. set the container element to have a `grid-template-columns` value that defines the number of columns in the grid
+1. set the container element to have a `grid-template-areas` value that defines the areas of the grid and their relative widths
+
+---
+
+template: grid
+
+## Example - Cheerio Layout
+
+Imagine the following classic web page layout with a header, footer, main content, left navigation bar and "right-rail" sidebar:
+
+![CSS Cheerio Layout](../assets/css-layout-cheerio.png)
+
+---
+
+template: grid
+
+## Example - Cheerio Layout (HTML)
+
+The `body` section of the HTML for such a page might contain code like this:
+
+```html
+<div class="container">
+  <header>Header</header>
+  <nav>Left nav</nav>
+  <main>Main content</main>
+  <aside>Right rail</aside>
+  <footer>Footer</footer>
+</div>
+```
+
+---
+
+template: grid
+
+## Example - Cheerio Layout (CSS)
+
+The critical parts of the CSS code that would produce such a layout would be:
+
+<!-- prettier-ignore-start -->
+
+```css
+/* give grid system nicknames for each of the areas we want to lay out */
+header { grid-area: header; }
+nav { grid-area: left-nav; }
+main { grid-area: main-content; }
+aside { grid-area: right-rail; }
+footer { grid-area: footer; }
+
+.container {
+  display: grid; /* turn on the grid system */
+  grid-template-columns: 1fr 2fr 1fr; /* relative widths of columns */
+
+  /* now specify which nicknamed elements to put into which grid positions */
+  grid-template-areas:
+    "header     header        header"
+    "left-nav   main-content  right-rail"
+    "footer     footer        footer";
+}
+
+
+```
+<!-- prettier-ignore-end -->
+
+---
+
+name: flex
+
+# CSS Flexbox
+
+--
+
+## Flexible layouts of components
+
+While CSS Grid is most commonly used to create the outer structures of a web page, **CSS Flexbox** is often useful for laying out the inner content pieces that go within each skeletal area.
+
+To use CSS Flex, we typically:
+
+1. put a [container element](#containers) around the content you want to lay out
+1. set the container element to have a `display` value of `flex` to turn on CSS Flex for that element.
+1. set the container's `flex-direction` property to be either `row` or `column`, depending on whether you want to line up the inner elements horizontally or vertically.
+1. set the container's `gap` property to be the desired spacing between the inner elements.
+1. determine how the inner elements are justified within the container by setting the container's `justify-content` property.
+
+---
+
+template: flex
+
+## Example - Content row
+
+For example, consider an area containing three elements that sit side-by-side, where one element is wider than the others, and all elements are separated from each other by a gap.
+
+![CSS Flexbox row](../assets/css-layout-flexbox.png)
+
+- We show boxes for simplicity only, but these could be any type of real content elements: `h1`, `p`, `img`, `ul`, `div`, etc.
+
+---
+
+template: flex
+
+## Example - Content row (HTML)
+
+The HTML code for such a content area might be:
+
+```html
+<div class="row">
+  <div class="box1">box 1</div>
+  <div class="box2">box 2</div>
+  <div class="box3">box 3</div>
+</div>
+```
+
+- Note the inner elements are shown as `div` for simplicity. These could be any type of element in practice.
+
+---
+
+template: flex
+
+## Example - Content row (CSS)
+
+The critical parts of the CSS code that would produce such a layout would be:
+
+<!-- prettier-ignore-start -->
+
+```css
+.row {
+  display: flex;
+  flex-direction: row; /* options are row | row-reverse | column | column-reverse; */
+  gap: 1rem; /* gap between items, set to 1 times the font size of the root element (the html element), which by default is 16px in most browsers */
+}
+
+/* the following settings allow the three boxes to grow, where box 2 will grow up to 10 times as wide as box 1 and 2 */
+.box1, .box3 { flex-grow: 1; }
+.box2 { flex-grow: 10; }
+```
+
+<!-- prettier-ignore-end -->
+
+---
+
+name: conclusions
+
+# Conclusions
+
+---
+
+template: conclusions
+name: conclusions-1
+
+At this point you have a solid understanding of the key concepts behind web page layout. You must _try it yourself_ to really understand how to apply it.
+
+- Thank you. Bye.

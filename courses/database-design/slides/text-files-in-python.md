@@ -1,5 +1,4 @@
 ---
-layout: presentation
 title: Text Files in Python
 ---
 

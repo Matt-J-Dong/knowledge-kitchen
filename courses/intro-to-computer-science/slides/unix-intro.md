@@ -1,5 +1,4 @@
 ---
-layout: presentation
 title: Intro to Unix commands
 ---
 
