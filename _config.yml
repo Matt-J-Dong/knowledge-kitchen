@@ -1,8 +1,8 @@
 github-org-name: bloombar
 github-repo-name: knowledge-kitchen
 repository: bloombar/amos-web-site
-url: https://i6.cims.nyu.edu/~ab1258/tmp
-baseurl: /~ab1258/tmp
+url: https://knowledge.kitchen
+baseurl: /
 permalink: pretty
 title: Knowledge Kitchen
 description: >
