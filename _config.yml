@@ -10,14 +10,14 @@ description: >
 collections:
   musings:
     output: true
-  # consulting:
-  #   output: true
+  consulting:
+    output: true
   domestic-construction:
     output: true
   # family:
   #   output: true
-  # food-and-drink:
-  #   output: true
+  food-and-drink:
+    output: true
   me:
     output: true
   music:
