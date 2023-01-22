@@ -82,7 +82,7 @@ PLATFORMS
   x86_64-darwin-21
 
 DEPENDENCIES
-  jekyll (~> 4.2)
+  jekyll (~> 4.2.2)
   jekyll-feed
   jekyll-github-metadata
   jekyll-redirect-from (~> 0.16.0)
