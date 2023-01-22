@@ -1,5 +1,6 @@
 ---
 title: Intro to HTML
+layout: presentation
 ---
 
 class: center, middle

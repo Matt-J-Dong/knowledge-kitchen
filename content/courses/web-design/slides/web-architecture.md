@@ -1,5 +1,6 @@
 ---
 title: Web Architecture
+layout: presentation
 ---
 
 class: center, middle

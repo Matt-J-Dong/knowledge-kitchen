@@ -1,5 +1,7 @@
 ---
 title: Other Stuff
+type: pages
+permalink: /other/
 ---
 
 {% assign featured_categories = "" | split: ", "  %}

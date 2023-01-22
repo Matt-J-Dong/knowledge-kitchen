@@ -1,5 +1,6 @@
 ---
 title: Soviet Montage
+layout: presentation
 ---
 
 class: center, middle

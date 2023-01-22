@@ -1,5 +1,6 @@
 ---
 title: Exam 2 Review
+layout: presentation
 ---
 
 class: center, middle

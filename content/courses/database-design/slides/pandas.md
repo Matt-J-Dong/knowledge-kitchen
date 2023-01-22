@@ -1,5 +1,6 @@
 ---
 title: Pandas
+layout: presentation
 ---
 
 class: center, middle

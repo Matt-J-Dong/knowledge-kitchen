@@ -1,5 +1,6 @@
 ---
 title: Jupyter Notebooks
+layout: presentation
 ---
 
 class: center, middle

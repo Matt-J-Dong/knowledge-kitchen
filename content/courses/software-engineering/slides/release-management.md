@@ -1,5 +1,6 @@
 ---
 title: Release Management
+layout: presentation
 ---
 
 class: center, middle

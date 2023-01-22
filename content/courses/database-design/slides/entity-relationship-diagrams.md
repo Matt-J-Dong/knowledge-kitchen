@@ -1,5 +1,6 @@
 ---
 title: Entity-Relationship Diagrams
+layout: presentation
 ---
 
 class: center, middle

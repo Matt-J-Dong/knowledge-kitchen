@@ -1,5 +1,6 @@
 ---
 title: Loops
+layout: presentation
 ---
 
 class: center, middle

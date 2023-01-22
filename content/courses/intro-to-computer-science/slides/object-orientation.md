@@ -1,5 +1,6 @@
 ---
 title: Object Orientation
+layout: presentation
 ---
 
 class: center, middle

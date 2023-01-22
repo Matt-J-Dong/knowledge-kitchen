@@ -1,5 +1,6 @@
 ---
 title: Version Control Systems
+layout: presentation
 ---
 
 class: center, middle

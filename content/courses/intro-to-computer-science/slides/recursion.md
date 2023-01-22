@@ -1,5 +1,6 @@
 ---
 title: Recursion
+layout: presentation
 ---
 
 class: center, middle

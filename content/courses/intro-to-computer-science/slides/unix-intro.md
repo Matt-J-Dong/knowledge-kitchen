@@ -1,5 +1,6 @@
 ---
 title: Intro to Unix commands
+layout: presentation
 ---
 
 class: center, middle

@@ -1,5 +1,6 @@
 ---
 title: Domain Modeling
+layout: presentation
 ---
 
 class: center, middle

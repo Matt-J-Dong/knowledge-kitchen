@@ -1,5 +1,6 @@
 ---
 title: MongoDB Aggregation
+layout: presentation
 ---
 
 class: center, middle
@@ -505,6 +506,7 @@ let projection = {
   _id: 0,
   "Job ID": 1,
   title: { $toUpper: "$Business Title" },
+  layout: presentation,
 }
 db.jobs.aggregate([{ $project: projection }])
 ```
@@ -527,6 +529,7 @@ var projection = {
   "Job ID": 1,
   ptype: "$Posting Type",
   title: { $toUpper: "$Business Title" },
+  layout: presentation,
 }
 ```
 

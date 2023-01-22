@@ -1,5 +1,6 @@
 ---
 title: Introduction to React.js
+layout: presentation
 ---
 
 class: center, middle
@@ -1054,6 +1055,7 @@ Data retrieved from a server can come in any structure. However, it's not uncomm
   {
     id: 1,
     title: "Mule deer",
+layout: presentation
     country: "Brazil",
     price: "$27.77",
     description:
@@ -1062,6 +1064,7 @@ Data retrieved from a server can come in any structure. However, it's not uncomm
   {
     id: 2,
     title: "Monkey, bleeding heart",
+layout: presentation
     country: "Malaysia",
     price: "$13.30",
     description:

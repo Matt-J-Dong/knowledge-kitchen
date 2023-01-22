@@ -1,5 +1,6 @@
 ---
 title: Data Storage For Apps
+layout: presentation
 ---
 
 class: center, middle

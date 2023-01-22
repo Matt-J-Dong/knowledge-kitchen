@@ -1,5 +1,6 @@
 ---
 title: CSS Web Page Layout
+layout: presentation
 ---
 
 class: center, middle

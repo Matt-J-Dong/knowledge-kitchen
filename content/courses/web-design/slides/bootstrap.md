@@ -1,5 +1,6 @@
 ---
 title: The Bootstrap Front-End Framework
+layout: presentation
 ---
 
 class: center, middle

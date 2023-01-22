@@ -1,5 +1,6 @@
 ---
 title: Digital Audio
+layout: presentation
 ---
 
 class: center, middle

@@ -1,5 +1,6 @@
 ---
 title: Pymongo & Flask
+layout: presentation
 ---
 
 class: center, middle

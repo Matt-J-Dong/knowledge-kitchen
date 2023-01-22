@@ -1,5 +1,6 @@
 ---
 title: Software Testing
+layout: presentation
 ---
 
 class: center, middle

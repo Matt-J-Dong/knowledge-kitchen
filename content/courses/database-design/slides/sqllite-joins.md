@@ -1,5 +1,6 @@
 ---
 title: SQLite Joins
+layout: presentation
 ---
 
 class: center, middle

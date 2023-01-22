@@ -1,5 +1,6 @@
 ---
 title: Bash Scripting
+layout: presentation
 ---
 
 class: center, middle

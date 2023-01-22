@@ -1,5 +1,6 @@
 ---
 title: Starter code
+layout: presentation
 ---
 
 class: center, middle

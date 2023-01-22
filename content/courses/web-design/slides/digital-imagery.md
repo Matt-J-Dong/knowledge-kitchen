@@ -1,5 +1,6 @@
 ---
 title: Digital Imagery
+layout: presentation
 ---
 
 class: center, middle

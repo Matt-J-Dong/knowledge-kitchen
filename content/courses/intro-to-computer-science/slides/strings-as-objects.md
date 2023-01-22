@@ -1,5 +1,6 @@
 ---
 title: String & Related Classes
+layout: presentation
 ---
 
 class: center, middle

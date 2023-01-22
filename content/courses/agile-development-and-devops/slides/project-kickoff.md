@@ -1,5 +1,6 @@
 ---
 title: Project Kickoff
+layout: presentation
 ---
 
 class: center, middle

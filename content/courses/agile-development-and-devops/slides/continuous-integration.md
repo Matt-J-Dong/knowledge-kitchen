@@ -1,5 +1,6 @@
 ---
 title: Continuous Integration
+layout: presentation
 ---
 
 class: center, middle

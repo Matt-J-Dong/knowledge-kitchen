@@ -1,5 +1,6 @@
 ---
 title: Exception Handling
+layout: presentation
 ---
 
 class: center, middle

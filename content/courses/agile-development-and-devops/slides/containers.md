@@ -1,5 +1,6 @@
 ---
 title: Containers
+layout: presentation
 ---
 
 class: center, middle

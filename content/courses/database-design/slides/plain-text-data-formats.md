@@ -1,5 +1,6 @@
 ---
 title: Plain Text Data Formats
+layout: presentation
 ---
 
 class: center, middle

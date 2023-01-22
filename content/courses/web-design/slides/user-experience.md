@@ -1,5 +1,6 @@
 ---
 title: User Experience Design
+layout: presentation
 ---
 
 class: center, middle

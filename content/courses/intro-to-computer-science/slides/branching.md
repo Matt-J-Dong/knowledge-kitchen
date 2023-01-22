@@ -1,5 +1,6 @@
 ---
 title: Branching
+layout: presentation
 ---
 
 class: center, middle

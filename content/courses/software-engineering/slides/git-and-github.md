@@ -1,5 +1,6 @@
 ---
 title: Git and GitHub
+layout: presentation
 ---
 
 class: center, middle

@@ -1,5 +1,6 @@
 ---
 title: Methods
+layout: presentation
 ---
 
 class: center, middle

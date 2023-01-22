@@ -1,5 +1,6 @@
 ---
 title: Operating Systems
+layout: presentation
 ---
 
 class: center, middle

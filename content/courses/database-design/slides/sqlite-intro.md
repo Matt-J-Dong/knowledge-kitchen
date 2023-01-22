@@ -1,5 +1,6 @@
 ---
 title: SQLite Intro
+layout: presentation
 ---
 
 class: center, middle

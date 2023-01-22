@@ -1,5 +1,6 @@
 ---
 title: Feature Branch Version Control Workflow
+layout: presentation
 ---
 
 class: center, middle

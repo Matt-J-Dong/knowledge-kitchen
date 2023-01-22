@@ -1,5 +1,6 @@
 ---
 title: Python Blast
+layout: presentation
 ---
 
 class: center, middle

@@ -1,5 +1,6 @@
 ---
 title: Course overview
+layout: presentation
 ---
 
 class: center, middle

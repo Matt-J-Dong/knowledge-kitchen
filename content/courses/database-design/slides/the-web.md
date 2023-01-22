@@ -1,5 +1,6 @@
 ---
 title: The Web
+layout: presentation
 ---
 
 class: center, middle

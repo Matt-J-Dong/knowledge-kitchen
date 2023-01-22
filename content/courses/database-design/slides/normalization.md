@@ -1,5 +1,6 @@
 ---
 title: Database Normalization
+layout: presentation
 ---
 
 class: center, middle

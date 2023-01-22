@@ -1,5 +1,6 @@
 ---
 title: Blockchain
+layout: presentation
 ---
 
 class: center, middle

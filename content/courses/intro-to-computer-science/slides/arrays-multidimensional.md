@@ -1,5 +1,6 @@
 ---
 title: Multi-Dimensional Arrays
+layout: presentation
 ---
 
 class: center, middle

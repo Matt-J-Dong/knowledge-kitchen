@@ -1,5 +1,6 @@
 ---
 title: Design Patterns
+layout: presentation
 ---
 
 class: center, middle

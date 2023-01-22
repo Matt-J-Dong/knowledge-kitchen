@@ -1,5 +1,6 @@
 ---
 title: Responsive Design
+layout: presentation
 ---
 
 class: center, middle

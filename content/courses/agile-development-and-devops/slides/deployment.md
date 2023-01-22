@@ -1,5 +1,6 @@
 ---
 title: Continuous Deployment
+layout: presentation
 ---
 
 class: center, middle

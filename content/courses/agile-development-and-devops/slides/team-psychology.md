@@ -1,5 +1,6 @@
 ---
 title: Team Psychology
+layout: presentation
 ---
 
 class: center, middle

@@ -1,5 +1,6 @@
 ---
 title: MongoDB CRUD
+layout: presentation
 ---
 
 class: center, middle
@@ -455,6 +456,7 @@ Documents can be created and stored into collections by importing from a JSON da
 ```javascript
 db.books.insert({
   title: "Pattern Recognition",
+layout: presentation
   author: "William Gibson",
   year_written: 2003,
   edition: "Penguin",
@@ -563,6 +565,7 @@ db.books.find(
   {
     _id: 0,
     title: 1,
+    layout: presentation,
   }
 )
 ```
@@ -839,6 +842,7 @@ To delete existing documents, use the `remove()` method.
 db.books.remove({
   author: "William Gibson",
   title: "Pattern Recognition",
+  layout: presentation,
 })
 ```
 

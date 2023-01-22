@@ -1,5 +1,6 @@
 ---
 title: Abstract Classes
+layout: presentation
 ---
 
 class: center, middle

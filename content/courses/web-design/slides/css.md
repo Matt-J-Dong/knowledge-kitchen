@@ -1,5 +1,6 @@
 ---
 title: Introduction to CSS
+layout: presentation
 ---
 
 class: center, middle

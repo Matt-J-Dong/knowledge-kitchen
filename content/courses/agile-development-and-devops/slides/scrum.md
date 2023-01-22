@@ -1,5 +1,6 @@
 ---
 title: Scrum
+layout: presentation
 ---
 
 class: center, middle

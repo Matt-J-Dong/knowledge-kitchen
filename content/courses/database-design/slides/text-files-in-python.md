@@ -1,5 +1,6 @@
 ---
 title: Text Files in Python
+layout: presentation
 ---
 
 class: center, middle

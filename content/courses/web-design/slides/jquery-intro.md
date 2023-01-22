@@ -1,5 +1,6 @@
 ---
 title: JQuery for Web Designers
+layout: presentation
 ---
 
 class: center, middle

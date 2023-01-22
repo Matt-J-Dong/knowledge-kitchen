@@ -1,5 +1,6 @@
 ---
 title: GitHub for Collaboration
+layout: presentation
 ---
 
 class: center, middle
@@ -183,6 +184,7 @@ template: issues
 GitHub allows you to use Markdown to format issue descriptions, including a checklist for Acceptance Criteria.
 
 Title:
+layout: presentation
 
 ```
 As a professor, I want to automatically send students their grades so I don't have to do it.

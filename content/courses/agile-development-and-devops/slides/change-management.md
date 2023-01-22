@@ -1,5 +1,6 @@
 ---
 title: Change Management
+layout: presentation
 ---
 
 class: center, middle

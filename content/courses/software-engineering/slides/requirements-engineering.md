@@ -1,5 +1,6 @@
 ---
 title: Requirements Engineering
+layout: presentation
 ---
 
 class: center, middle
@@ -134,6 +135,7 @@ template: user-requirements
 Example:
 
 > Title: Purchase items
+> layout: presentation
 >
 > Actor: Customer
 >

@@ -1,5 +1,6 @@
 ---
 title: The Processing Framework
+layout: presentation
 ---
 
 class: center, middle

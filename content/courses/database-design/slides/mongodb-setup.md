@@ -1,5 +1,6 @@
 ---
 title: MongoDB Setup
+layout: presentation
 ---
 
 class: center, middle

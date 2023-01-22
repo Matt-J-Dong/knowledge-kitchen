@@ -1,5 +1,6 @@
 ---
 title: App Authentication
+layout: presentation
 ---
 
 class: center, middle

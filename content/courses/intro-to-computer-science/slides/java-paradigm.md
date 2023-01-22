@@ -1,5 +1,6 @@
 ---
 title: The Java Paradigm
+layout: presentation
 ---
 
 class: center, middle

@@ -1,5 +1,6 @@
 ---
 title: UML Diagrams
+layout: presentation
 ---
 
 class: center, middle

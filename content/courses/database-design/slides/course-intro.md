@@ -1,5 +1,6 @@
 ---
 title: Course Intro
+layout: presentation
 ---
 
 class: center, middle

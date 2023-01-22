@@ -1,5 +1,6 @@
 ---
 title: Exam 3 Review
+layout: presentation
 ---
 
 class: center, middle

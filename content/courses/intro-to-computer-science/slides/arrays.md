@@ -1,5 +1,6 @@
 ---
 title: Arrays
+layout: presentation
 ---
 
 class: center, middle

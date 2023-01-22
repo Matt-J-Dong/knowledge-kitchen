@@ -1,5 +1,6 @@
 ---
 title: Express.js
+layout: presentation
 ---
 
 class: center, middle
@@ -324,6 +325,7 @@ app.get("/json-example", (req, res) => {
   // assemble an object containing the data we want to send
   const body = {
     title: "Hello!",
+layout: presentation
     heading: "Hello!",
     message: "Welcome to this JSON document, served up by Express",
     imagePath: "/static/images/donkey.jpg",
@@ -1040,6 +1042,7 @@ To use a Pug template, simply create a route that instructs Express to respond w
 app.get("/", function (req, res) {
   res.render("index", {
     title: "My First Templated Site",
+layout: presentation
     message: "Welcome to your first dynamic templated page!!",
   })
 })
