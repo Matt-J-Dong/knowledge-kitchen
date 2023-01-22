@@ -1,0 +1,39 @@
+order allow,deny
+deny from 64.90.40.102
+deny from 148.251.136.8
+deny from 69.30.198.178
+deny from 188.213.49.133
+deny from 174.34.135.242
+deny from 62.210.101.101
+deny from 69.197.163.195
+deny from 108.41.210.84
+allow from all
+
+RewriteEngine On
+
+#FORCE HTTPS
+RewriteCond %{HTTPS} off
+RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [L,QSA,B]
+
+# TEMPORARY FIXES
+#
+# RewriteRule ^$ /mediawiki/index.php [L]
+#
+# RewriteCond %{DOCUMENT_ROOT}%{REQUEST_URI} !-f
+# RewriteCond %{DOCUMENT_ROOT}%{REQUEST_URI} !-d
+# RewriteRule ^(.*)$ %{DOCUMENT_ROOT}/mediawiki/index.php [L]
+#
+# RewriteCond %{DOCUMENT_ROOT}%{REQUEST_URI} !-f
+# RewriteCond %{DOCUMENT_ROOT}%{REQUEST_URI} !-d
+# RewriteRule ^/?mediawiki/images/thumb/[0-9a-f]/[0-9a-f][0-9a-f]/([^/]+)/([0-9]+)px-.*$ %{DOCUMENT_ROOT}/mediawiki/thumb.php?f=$1&width=$2 [L,QSA,B]
+#
+RewriteCond %{DOCUMENT_ROOT}%{REQUEST_URI} !-f
+RewriteCond %{DOCUMENT_ROOT}%{REQUEST_URI} !-d
+RewriteRule ^/?mediawiki/images/thumb/archive/[0-9a-f]/[0-9a-f][0-9a-f]/([^/]+)/([0-9]+)px-.*$ %{DOCUMENT_ROOT}/mediawiki/thumb.php?f=$1&width=$2&archived=1 [L,QSA,B]
+
+RewriteBase /
+RewriteRule ^(.*)\&(.*)$ $1\%26$2
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+# RewriteRule ^mediawiki/(.+)$ ./mediawiki/index.php?title=$1 [PT,L,QSA]
+RewriteRule ^mediawiki/(.+) mediawiki/index.php?title=$1 [PT,L,QSA]

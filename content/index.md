@@ -55,4 +55,4 @@ permalink: /
 
 {% endfor %} <!-- col -->
 
-... <a href='{{ "/other" | prepend:site.baseurl  }}'>other</a> stuff
+... <a href='{{ "/other/" | prepend:site.baseurl  }}'>other</a> stuff

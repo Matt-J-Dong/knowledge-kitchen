@@ -1407,11 +1407,11 @@ Javascript can be run either _within a web page_ loaded by a web browser (i.e. c
 
 --
 
-- _Javascript in the web browser_ is primarily focused on interacting with the browser's [Document Object Model](https://knowledge.kitchen/Document_Object_Model) (DOM) - an object created automatically by the browser itself that contains and allows the Javsacript to modify all the contents, styles, and behaviors of the web page currently loaded in the browser's memory.
+- _Javascript in the web browser_ is primarily focused on interacting with the browser's [Document Object Model](https://knowledge.kitchen/mediawiki/Document_Object_Model) (DOM) - an object created automatically by the browser itself that contains and allows the Javsacript to modify all the contents, styles, and behaviors of the web page currently loaded in the browser's memory.
 
 --
 
-- _Node.js runs on the server_, where there is no currently-loaded web page. So the DOM does not exist and is not of any use in controlling server behavior. Node.js has its own set of [built-in variables and objects](https://knowledge.kitchen/Node.js_notes#Global_variables).
+- _Node.js runs on the server_, where there is no currently-loaded web page. So the DOM does not exist and is not of any use in controlling server behavior. Node.js has its own set of [built-in variables and objects](https://knowledge.kitchen/mediawiki/Node.js_notes#Global_variables).
 
 ---
 

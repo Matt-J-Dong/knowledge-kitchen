@@ -40,7 +40,7 @@ New York, NY 10012<br />
 - 2013 – 2019, Clinical Assistant Professor
 - 2011 – 2013, Adjunct Faculty
 
-Training the next generation of engineers, designers, and hackers. Teaching applied courses in [interactive product design with custom electronic circuits](https://knowledge.kitchen/Physical Computing Syllabus), [software engineering](https://nyu-software-engineering.github.io/course-materials), [computer science](https://knowledge.kitchen/Computer_Science_Schedule), [web design](https://nyu-web-design.github.io/course-materials), [database design](https://database-design.github.io/course-materials), [computer programming](https://nyu-python-programming.github.io/course-material).
+Training the next generation of engineers, designers, and hackers. Teaching applied courses in [interactive product design with custom electronic circuits](https://knowledge.kitchen/Physical Computing Syllabus), [software engineering](https://nyu-software-engineering.github.io/course-materials), [computer science](/content/courses/intro-to-computer-science), [web design](/content/courses/web-design), [database design](/content/courses/database-design), [computer programming](/content/courses/intro-to-programming).
 
 ### New York University, School of Professional Studies
 
@@ -231,7 +231,7 @@ Studied classical guitar for many years, first with private instruction from a p
 
 ### 2010
 
-- [Apparel's Top Innovators: Juicy Couture](https://knowledge.kitchen/Media:Apparel mag top innovators juicy couture 2010.pdf)<br />
+- [Apparel's Top Innovators: Juicy Couture](https://knowledge.kitchen/mediawiki/Media:Apparel mag top innovators juicy couture 2010.pdf)<br />
   Apparel Mag
   May 2010
 
@@ -255,7 +255,7 @@ Studied classical guitar for many years, first with private instruction from a p
   College Candy
   24 November 2007
 
-- Hebert, Neal. [My Lil Lohan is Facebook Dynamite](https://knowledge.kitchen/Media:My Lil Lohan Is Facebook Dynamite by Neal Hebert.pdf)<br />
+- Hebert, Neal. [My Lil Lohan is Facebook Dynamite](https://knowledge.kitchen/mediawiki/Media:My Lil Lohan Is Facebook Dynamite by Neal Hebert.pdf)<br />
   The Daily Reveille
   14 November 2007
 
@@ -263,11 +263,11 @@ Studied classical guitar for many years, first with private instruction from a p
   Indiana Daily Student
   12 November 2007
 
-- [Navigate NYC: Which Route Is Faster](https://knowledge.kitchen/Media:Navigate NYC- Which Route Is Faster by Time Out New York.pdf)<br />
+- [Navigate NYC: Which Route Is Faster](https://knowledge.kitchen/mediawiki/Media:Navigate NYC- Which Route Is Faster by Time Out New York.pdf)<br />
   Time Out New York
   8 November 2007
 
-- Rundle, Michael. [Even The Subway's On Facebook](https://knowledge.kitchen/Media:Even The Subway's On Facebook by Michael Rundle.pdf)<br />
+- Rundle, Michael. [Even The Subway's On Facebook](https://knowledge.kitchen/mediawiki/Media:Even The Subway's On Facebook by Michael Rundle.pdf)<br />
   Metro
   28 August 2007
 
@@ -279,7 +279,7 @@ Studied classical guitar for many years, first with private instruction from a p
   New York Times
   23 August 2007
 
-- [Facebook To Reduce Rage, Increase Hookups On Subway](https://knowledge.kitchen/Media:Facebook To Reduce Rage, Increase Hookups On Subway by NYMag.pdf)<br />
+- [Facebook To Reduce Rage, Increase Hookups On Subway](https://knowledge.kitchen/mediawiki/Media:Facebook To Reduce Rage, Increase Hookups On Subway by NYMag.pdf)<br />
   New York Magazine
   22 August 2007
 
@@ -287,13 +287,13 @@ Studied classical guitar for many years, first with private instruction from a p
   Metropolis
   24 April 2007
 
-- Talcott, Kelly. [Keeping Up With Content From Blogs](https://knowledge.kitchen/Media:Keeping Up With Content From Blogs by Kelly Talcott.pdf)<br />
+- Talcott, Kelly. [Keeping Up With Content From Blogs](https://knowledge.kitchen/mediawiki/Media:Keeping Up With Content From Blogs by Kelly Talcott.pdf)<br />
   New York Law Journal
   17 April 2007
 
 ### 2006
 
-- Holloway, Daniel. [Misfit Toys](https://knowledge.kitchen/Media:Needies_Are_Misfit Toys by Daniel Holloway in Metro.pdf)<br />
+- Holloway, Daniel. [Misfit Toys](https://knowledge.kitchen/mediawiki/Media:Needies_Are_Misfit Toys by Daniel Holloway in Metro.pdf)<br />
   Metro
   16 February 2006
 
@@ -311,7 +311,7 @@ Studied classical guitar for many years, first with private instruction from a p
   OC Weekly
   24 June 2005
 
-- [Teen People Hot List](https://knowledge.kitchen/Media:Needies in Teen People Hot List.pdf)<br />
+- [Teen People Hot List](https://knowledge.kitchen/mediawiki/Media:Needies in Teen People Hot List.pdf)<br />
   Teen People
   10 June 2005
 

@@ -473,8 +473,8 @@ written in comma-separated values (CSV) format. CSV is the most common
 text file format for text data from spreadsheets or databases.
 
 See [examples of using the csv module to parse CSV files into
-Lists](https://knowledge.kitchen/Reading_and_parsing_CSV_files_in_Python#CSV_to_Lists)
-and[Dictionaries](https://knowledge.kitchen/Reading_and_parsing_CSV_files_in_Python#CSV_to_Dictionaries).
+Lists](https://knowledge.kitchen/mediawiki/Reading_and_parsing_CSV_files_in_Python#CSV_to_Lists)
+and[Dictionaries](https://knowledge.kitchen/mediawiki/Reading_and_parsing_CSV_files_in_Python#CSV_to_Dictionaries).
 
 ## Regular Expressions module
 

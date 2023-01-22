@@ -118,7 +118,7 @@ The main project is to design and build a mobile web application using an indust
 Projects are submitted by using [git](https://git-scm.com/) to upload code to [GitHub](https://github.com).
 
 - we will cover how to push code to GitHub
-- unless you have good reason to do otherwise, follow best-practices for all [basic file names and file extensions](https://knowledge.kitchen/Basic_computer_concepts#File_names)
+- unless you have good reason to do otherwise, follow best-practices for all [basic file names and file extensions](/content/courses/web-design/basic-computer-concepts/#files-and-folders)
 
 Team projects are broken up into 5 "sprints" - iterations of work - each of which is approximately 2 weeks long. Students will receive a grade for each sprint based on the following:
 

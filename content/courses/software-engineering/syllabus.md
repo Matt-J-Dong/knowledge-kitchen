@@ -53,7 +53,7 @@ Tutoring hours (all times in Eastern Time):
 - see me before class
 - raise your hand or simply speak during class
 - see me after class
-- come to my [open office hours](https://knowledge.kitchen/Amos_Bloomberg#Contact_Info)
+- come to my [open office hours](/me/cv/#contact-info)
 
 ### Additional tutoring resources
 
@@ -77,7 +77,7 @@ The main computer lab to use for this class is the [LaGuardia Co-op](http://www.
 
 #### Saving your work in the lab
 
-You will be able to save your work in the ITS labs under your NYU Home Account and/or on your own flash drives. Although you can write to the hard disks of the machines in the labs, you cannot be sure that you will have access to the same machine the next time you enter the lab and the drives in the lab are frequently erased. A good option is to [upload your files online](https://knowledge.kitchen/Transfer_files_to_the_i6_web_server) and download them as needed.
+You will be able to save your work in the ITS labs under your NYU Home Account and/or on your own flash drives. Although you can write to the hard disks of the machines in the labs, you cannot be sure that you will have access to the same machine the next time you enter the lab and the drives in the lab are frequently erased. A good option is to [upload your files online](https://knowledge.kitchen/mediawiki/Transfer_files_to_the_i6_web_server) and download them as needed.
 
 ## Grading
 
@@ -99,7 +99,7 @@ Projects are primarily done with a group and are mostly completed outside of cla
 All projects are submitted by pushing code to GitHub.
 
 - we will cover how to push code to GitHub
-- unless you have good reason to do otherwise, follow best-practices for all [basic file names and file extensions](https://knowledge.kitchen/Basic_computer_concepts#File_names)
+- unless you have good reason to do otherwise, follow best-practices for all [basic file names and file extensions](/content/courses/intro-to-programming/basic-computer-concepts/#file-names)
 
 ### Late policy
 

@@ -468,7 +468,7 @@ Databases, relational or not, are typically used to do one of four tasks, affect
 
 --
 
-- See some [examples of each](https://knowledge.kitchen/MySQL_table_operations).
+- See some [examples of each](/content/courses/database-design/slides/sqlite-intro/).
 
 ---
 
@@ -476,7 +476,7 @@ template: relational
 
 ## Joins
 
-The bane of every relational database developer's existence is the concept of **[joins](https://knowledge.kitchen/MySQL_inner_joins)**.
+The bane of every relational database developer's existence is the concept of **[joins](/content/courses/database-design/slides/sqlite-joins/)**.
 
 --
 

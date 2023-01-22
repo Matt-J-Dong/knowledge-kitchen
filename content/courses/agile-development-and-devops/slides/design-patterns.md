@@ -153,7 +153,7 @@ A fully initialized instance to be copied or cloned.
 
 Useful when the setup of an object is time/resource consuming, and you do not want to repeat it more than once, if possible.
 
-- [View more notes](https://knowledge.kitchen/Design_patterns#Prototype)
+- [View more notes](https://knowledge.kitchen/mediawiki/Design_patterns#Prototype)
 
 ---
 
@@ -167,7 +167,7 @@ The builder pattern provides a simple interface to create an object that actuall
 
 Useful when there's a complex object structure that is complicated to build.
 
-- [View more notes](https://knowledge.kitchen/Design_patterns#Builder)
+- [View more notes](https://knowledge.kitchen/mediawiki/Design_patterns#Builder)
 
 ---
 
@@ -179,7 +179,7 @@ A class of which only a single instance is allowed to exist.
 
 Useful when you need only one object of that class to exist.
 
-- [View more notes](https://knowledge.kitchen/Design_patterns#Singleton)
+- [View more notes](https://knowledge.kitchen/mediawiki/Design_patterns#Singleton)
 
 ---
 
@@ -195,7 +195,7 @@ An object representing another object. It's an imposter! Hides the complexity of
 
 Example: credit card is a proxy for a bank account.
 
-- [View more notes](https://knowledge.kitchen/Design_patterns#Proxy)
+- [View more notes](https://knowledge.kitchen/mediawiki/Design_patterns#Proxy)
 
 ---
 
@@ -207,7 +207,7 @@ A single class that represents the entire subsystem.
 
 Useful for web applications. Reducing network calls. Reduces coupling (bewteen web layer and back-end). Helps rollback all steps if one fails.
 
-- [View more notes](https://knowledge.kitchen/Design_patterns#Facade)
+- [View more notes](https://knowledge.kitchen/mediawiki/Design_patterns#Facade)
 
 ---
 
@@ -217,7 +217,7 @@ template: structural
 
 Adds responsibility to objects dynamically. Makes it easy to add behavior at runtime.
 
-- [View more notes](https://knowledge.kitchen/Design_patterns#Decorator)
+- [View more notes](https://knowledge.kitchen/mediawiki/Design_patterns#Decorator)
 
 ---
 
@@ -233,7 +233,7 @@ A way of passing a request between a chain of objects.
 
 A message passes through a series of objects until one of them is able to handle it, at which point is doesn't get passed any further.
 
-- [View more notes](https://knowledge.kitchen/Design_patterns#Chain_of_responsibility)
+- [View more notes](https://knowledge.kitchen/mediawiki/Design_patterns#Chain_of_responsibility)
 
 ---
 
@@ -245,7 +245,7 @@ Sequentially access the elements in a collection.
 
 Useful when the internal representation of a collection of objects isn't important, and you simply want to be able iterate through the objects in the collection.
 
-- [View more notes](https://knowledge.kitchen/Design_patterns#Iterator)
+- [View more notes](https://knowledge.kitchen/mediawiki/Design_patterns#Iterator)
 
 ---
 
@@ -257,7 +257,7 @@ A way of notifying a change to an object to a number of other objects. Objects c
 
 Situation: When one of the objects changes, it needs to let several of the other objects know.
 
-- [View more notes](https://knowledge.kitchen/Design_patterns#Observer)
+- [View more notes](https://knowledge.kitchen/mediawiki/Design_patterns#Observer)
 
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: Other Stuff
-permalink: /other
 ---
 
 {% assign featured_categories = "" | split: ", "  %}

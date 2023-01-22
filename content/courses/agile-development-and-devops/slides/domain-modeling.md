@@ -104,7 +104,7 @@ Domain models follows a standardized modeling style defined by the Unified Model
 
 ## Example
 
-![Entities example](https://knowledge.kitchen/mediawiki/images/2/24/Identifying_entities_in_a_domain_model.png)
+![Entities example](../assets/domain-modeling/identifying-entities-in-a-domain-model.png)
 
 ---
 
@@ -138,7 +138,7 @@ Domain models follows a standardized modeling style defined by the Unified Model
 
 ## Example
 
-![Simple relationships example](https://knowledge.kitchen/mediawiki/images/0/09/Domain_model_simple_example.png)
+![Simple relationships example](../assets/domain-modeling/domain-model-simple-example.png)
 
 ---
 
@@ -147,7 +147,7 @@ Domain models follows a standardized modeling style defined by the Unified Model
 ## Example
 
 This example contains additional details about each _entity_:
-![More complex relationships example](https://knowledge.kitchen/mediawiki/images/0/09/Domain_model_example.png)
+![More complex relationships example](../assets/domain-model-example.png)
 
 ---
 

@@ -264,7 +264,7 @@ Containers are a refinement of the concept of a virtual machine.
 
 --
 
-![Virtualization evolution](https://knowledge.kitchen/mediawiki/images/d/d3/Comparison_of_server_virtualization_systems.png)
+![Virtualization evolution](../assets/containers/comparison-of-server-virtualization-systems.png)
 
 ---
 

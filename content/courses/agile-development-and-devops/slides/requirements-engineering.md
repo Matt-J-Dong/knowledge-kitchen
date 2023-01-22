@@ -147,7 +147,7 @@ template: user-requirements
 
 Written use cases often are accompanied by a Unified Modeling Diagram Language (UML) diagram:
 
-![Use case diagram](https://knowledge.kitchen/mediawiki/images/f/f4/Use_case_diagram_example.png)
+![Use case diagram](../assets/requirements-engineering/use-case-diagram-example.png)
 
 ---
 
@@ -206,7 +206,7 @@ template: user-requirements
 
 ## Use Cases vs. User Stories
 
-![Use cases vs. user stories](https://knowledge.kitchen/mediawiki/images/1/11/Use_cases_versus_user_stories.png)
+![Use cases vs. user stories](../assets/requirements-engineering/use-cases-versus-user-stories.png)
 
 ---
 

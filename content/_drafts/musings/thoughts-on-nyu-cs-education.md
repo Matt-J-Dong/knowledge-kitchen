@@ -49,7 +49,7 @@ We are calcifying rather than embracing this opportunity:
 - rather than put TAs in recitations for our entry courses, use over-qualified professors during precious class time in a so-called "flipped classroom" for the same purpose.
 - we give adjuncts course plans for our entry courses, which are rigid and difficult to stray without wrecking the "system" even by skilled teachers who should be able to teach their own way
 - tightening of belts on faculty (expiring professional dev funds, permission not granted to teach elsewhere, limits on side income)
-- [as Donald Norman would say](https://knowledge.kitchen/Interaction_design#Beauty_vs._ugliness), stress leads to depth-first narrow thinking, rather than breadth-first creative problem solving
+- [as Donald Norman would say](https://knowledge.kitchen/mediawiki/Interaction_design#Beauty_vs._ugliness), stress leads to depth-first narrow thinking, rather than breadth-first creative problem solving
 
 ### A paucity of options
 
@@ -143,7 +143,7 @@ Integrate best practices throughout all courses (a la
 <http://queue.acm.org/detail.cfm?id=3130216>)
 
 - unix command line
-- [git version control](https://knowledge.kitchen/Version_control_with_Git_and_GitHub) / github or similar collaboration platforms
+- [git version control](/content/courses/software-engineering/slides/git-and-github/) / github or similar collaboration platforms
 - project management concepts
 - familiarity with internet and web architecture and technologies (it should be an embarrassment that many majors can't even make a decent web page whether manually or not!)
 - continuous automated builds and tests (e.g. Jenkins build, test, deploy cycles)

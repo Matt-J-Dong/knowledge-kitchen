@@ -162,7 +162,7 @@ name: team-size
 
 Jeff Bezos is famous for the "two pizza" team - a team should only be as large as can be fed with two pizzas.
 
-![Rudolf Olah's communication lines](https://knowledge.kitchen/mediawiki/images/6/65/Number_of_people_and_lines_of_communication.png)
+![Rudolf Olah's communication lines](../assets/number-of-people-and-lines-of-communication.png)
 
 ---
 

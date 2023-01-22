@@ -1,4 +1,4 @@
-name: deploy-site-to-i6
+name: deploy to knowledge.kitchen
 on:
   push:
     branches: [main]

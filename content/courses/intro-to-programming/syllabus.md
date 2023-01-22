@@ -6,13 +6,13 @@ title: Syllabus
 
 Before going any further, note that we will not cover the following:
 
-- Desktop and [mobile app development](https://knowledge.kitchen/Android_mobile_app_development)
-- [Web site development](https://knowledge.kitchen/:Category:_Web_Development)
+- Desktop and [mobile app development](https://knowledge.kitchen/mediawiki/Android_mobile_app_development)
+- [Web site development](/content/courses/web-design/)
 - [Game design](https://knowledge.kitchen/Interactive_programming_with_Processing)
-- [Computer music and digital audio](https://knowledge.kitchen/Digital_Audio)
-- [Databases](https://knowledge.kitchen/:Category:Database_Design)
-- [Interactive product design](https://knowledge.kitchen/:Category:Physical_Computing)
-- [Agile software development](https://knowledge.kitchen/Agile_Software_Development_Course_Schedule)
+- [Computer music and digital audio](/content/courses/web-design/slides/digital-audio/)
+- [Databases](/content/courses/database-design/)
+- [Interactive product design](https://knowledge.kitchen/mediawiki/Category:Physical_Computing)
+- [Agile software development](/content/courses/agile-development-and-devops/)
 
 ## Getting help
 
@@ -42,7 +42,7 @@ Academic support is also available through the [University Learning Center](http
 1.  see me before class
 1.  raise your hand or simply speak up during class
 1.  see me after class
-1.  come to my [open office hours](https://knowledge.kitchen/Amos_Bloomberg#Contact_Info)
+1.  come to my [open office hours](/me/cv/#contact-info)
 
 ## Books
 

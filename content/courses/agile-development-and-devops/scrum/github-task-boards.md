@@ -3,7 +3,7 @@ title: GitHub Task Boards
 categories: [scrum, github]
 ---
 
-It is possible in GitHub's `Projects` tab to create Scrum-style [Task Boards](https://knowledge.kitchen/Scrum_development_framework#Task_board) that show User Stories and Tasks and Spikes organized into visual groupings.
+It is possible in GitHub's `Projects` tab to create Scrum-style [Task Boards](/content/courses/agile-development-and-devops/scrum/github-task-boards/) that show User Stories and Tasks and Spikes organized into visual groupings.
 
 ![GitHub task board set up with user stories in the sprint backlog and nicely labeled tasks](../assets/github_task_board.png)
 
@@ -56,5 +56,5 @@ Maintain the Task Board as you work on the Sprint.
 Task boards serve as an archive of what was and was not accomplished within each Sprint.
 
 - Leave the task board frozen as-is when a Sprint is completed... do not remove or reposition any issues
-- Follow [the instructions for how to place incomplete User Stories back into the Product Backlog](https://knowledge.kitchen/GitHub_for_team_collaboration#Closing_milestones) using GitHub's labels, but don't remove them from the completed Sprint task board.
+- Follow [the instructions for how to place incomplete User Stories back into the Product Backlog](/content/courses/agile-development-and-devops/scrum/github-milestones/#closing-milestones) using GitHub's labels, but don't remove them from the completed Sprint task board.
 - Making any other changes to the task board after a Sprint has completed could be considered misleading and disingenuous.
