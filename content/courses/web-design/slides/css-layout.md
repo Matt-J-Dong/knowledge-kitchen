@@ -1,6 +1,7 @@
 ---
 title: CSS Web Page Layout
 layout: presentation
+categories: [course-notes]
 ---
 
 class: center, middle

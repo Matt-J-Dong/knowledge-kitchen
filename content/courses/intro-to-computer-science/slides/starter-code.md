@@ -1,6 +1,7 @@
 ---
 title: Starter code
 layout: presentation
+categories: [course-notes]
 ---
 
 class: center, middle

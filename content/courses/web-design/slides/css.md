@@ -1,6 +1,7 @@
 ---
 title: Introduction to CSS
 layout: presentation
+categories: [course-notes]
 ---
 
 class: center, middle

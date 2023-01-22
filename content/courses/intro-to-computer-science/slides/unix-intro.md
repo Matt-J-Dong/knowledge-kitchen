@@ -1,6 +1,7 @@
 ---
 title: Intro to Unix commands
 layout: presentation
+categories: [course-notes]
 ---
 
 class: center, middle

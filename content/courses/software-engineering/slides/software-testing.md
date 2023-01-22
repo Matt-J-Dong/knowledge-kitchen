@@ -1,6 +1,7 @@
 ---
 title: Software Testing
 layout: presentation
+categories: [course-notes]
 ---
 
 class: center, middle

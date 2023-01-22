@@ -1,6 +1,7 @@
 ---
 title: Introduction to React.js
 layout: presentation
+categories: [course-notes]
 ---
 
 class: center, middle
@@ -1056,6 +1057,7 @@ Data retrieved from a server can come in any structure. However, it's not uncomm
     id: 1,
     title: "Mule deer",
 layout: presentation
+categories: [course-notes]
     country: "Brazil",
     price: "$27.77",
     description:
@@ -1065,6 +1067,7 @@ layout: presentation
     id: 2,
     title: "Monkey, bleeding heart",
 layout: presentation
+categories: [course-notes]
     country: "Malaysia",
     price: "$13.30",
     description:

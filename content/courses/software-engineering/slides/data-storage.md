@@ -1,6 +1,7 @@
 ---
 title: Data Storage For Apps
 layout: presentation
+categories: [course-notes]
 ---
 
 class: center, middle

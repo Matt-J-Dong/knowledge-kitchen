@@ -1,6 +1,7 @@
 ---
 title: Introduction to Javascript
 layout: presentation
+categories: [course-notes]
 ---
 
 class: center, middle
@@ -845,6 +846,7 @@ const products = [
     id: 1,
     title: "Boa, emerald green tree",
 layout: presentation
+categories: [course-notes]
     price: "$31.82",
     description: "Sed ante. Vivamus tortor. Duis mattis egestas metus.",
   },
@@ -852,6 +854,7 @@ layout: presentation
     id: 2,
     title: "Bleu, blue-breasted cordon",
 layout: presentation
+categories: [course-notes]
     price: "$35.66",
     description:
       "Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",

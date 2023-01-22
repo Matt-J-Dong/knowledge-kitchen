@@ -1,6 +1,7 @@
 ---
 title: Digital Audio
 layout: presentation
+categories: [course-notes]
 ---
 
 class: center, middle

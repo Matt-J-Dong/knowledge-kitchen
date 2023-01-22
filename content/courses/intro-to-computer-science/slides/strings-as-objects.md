@@ -1,6 +1,7 @@
 ---
 title: String & Related Classes
 layout: presentation
+categories: [course-notes]
 ---
 
 class: center, middle

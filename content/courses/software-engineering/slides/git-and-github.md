@@ -1,6 +1,7 @@
 ---
 title: Git and GitHub
 layout: presentation
+categories: [course-notes]
 ---
 
 class: center, middle

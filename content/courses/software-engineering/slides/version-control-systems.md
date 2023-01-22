@@ -1,6 +1,7 @@
 ---
 title: Version Control Systems
 layout: presentation
+categories: [course-notes]
 ---
 
 class: center, middle

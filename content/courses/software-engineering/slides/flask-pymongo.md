@@ -1,6 +1,7 @@
 ---
 title: Pymongo & Flask
 layout: presentation
+categories: [course-notes]
 ---
 
 class: center, middle

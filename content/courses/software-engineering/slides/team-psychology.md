@@ -1,6 +1,7 @@
 ---
 title: Team Psychology
 layout: presentation
+categories: [course-notes]
 ---
 
 class: center, middle

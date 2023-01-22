@@ -1,6 +1,7 @@
 ---
 title: Operating Systems
 layout: presentation
+categories: [course-notes]
 ---
 
 class: center, middle

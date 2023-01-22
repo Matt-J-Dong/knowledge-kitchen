@@ -14,16 +14,16 @@ collections:
     output: true
   domestic-construction:
     output: true
-  # family:
-  #   output: true
+  family:
+    output: true
   food-and-drink:
     output: true
   me:
     output: true
   music:
     output: true
-  # poems:
-  #   output: true
+  poems:
+    output: true
 collections_dir: content
 page-categories: [
 #     food-and-drink,
@@ -33,6 +33,7 @@ page-categories: [
 #     music,
 #     me,
 #     # poems
+    course-notes
   ]
 copyright: GNU General Public License, Version 3
 layouts_dir: theme/_layouts/
@@ -46,6 +47,7 @@ defaults:
       path: "**/slides"
       type: pages
     values:
+      categories: [course-notes]
       layout: presentation
   - scope:
       path: "**/_posts"

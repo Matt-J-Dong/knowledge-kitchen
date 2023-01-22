@@ -1,6 +1,7 @@
 ---
 title: Domain Modeling
 layout: presentation
+categories: [course-notes]
 ---
 
 class: center, middle

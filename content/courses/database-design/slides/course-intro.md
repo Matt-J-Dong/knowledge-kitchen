@@ -1,6 +1,7 @@
 ---
 title: Course Intro
 layout: presentation
+categories: [course-notes]
 ---
 
 class: center, middle

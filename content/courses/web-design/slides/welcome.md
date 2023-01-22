@@ -1,6 +1,7 @@
 ---
 title: Course overview
 layout: presentation
+categories: [course-notes]
 ---
 
 class: center, middle

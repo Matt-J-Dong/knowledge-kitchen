@@ -1,6 +1,7 @@
 ---
 title: Loops
 layout: presentation
+categories: [course-notes]
 ---
 
 class: center, middle

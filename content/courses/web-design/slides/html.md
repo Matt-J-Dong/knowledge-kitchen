@@ -1,6 +1,7 @@
 ---
 title: Intro to HTML
 layout: presentation
+categories: [course-notes]
 ---
 
 class: center, middle

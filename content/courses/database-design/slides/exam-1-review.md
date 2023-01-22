@@ -1,6 +1,7 @@
 ---
 title: Exam 1 Review
 layout: presentation
+categories: [course-notes]
 ---
 
 class: center, middle

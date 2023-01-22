@@ -1,6 +1,7 @@
 ---
 title: Scrum
 layout: presentation
+categories: [course-notes]
 ---
 
 class: center, middle

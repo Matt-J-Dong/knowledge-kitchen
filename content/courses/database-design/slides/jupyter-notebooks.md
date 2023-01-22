@@ -1,6 +1,7 @@
 ---
 title: Jupyter Notebooks
 layout: presentation
+categories: [course-notes]
 ---
 
 class: center, middle

@@ -1,6 +1,7 @@
 ---
 title: GitHub for Collaboration
 layout: presentation
+categories: [course-notes]
 ---
 
 class: center, middle
@@ -185,6 +186,7 @@ GitHub allows you to use Markdown to format issue descriptions, including a chec
 
 Title:
 layout: presentation
+categories: [course-notes]
 
 ```
 As a professor, I want to automatically send students their grades so I don't have to do it.

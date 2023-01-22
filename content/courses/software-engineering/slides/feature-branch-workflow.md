@@ -1,6 +1,7 @@
 ---
 title: Feature Branch Version Control Workflow
 layout: presentation
+categories: [course-notes]
 ---
 
 class: center, middle

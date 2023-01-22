@@ -1,6 +1,7 @@
 ---
 title: Soviet Montage
 layout: presentation
+categories: [course-notes]
 ---
 
 class: center, middle

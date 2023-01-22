@@ -5,7 +5,7 @@ permalink: /other/
 ---
 
 {% assign featured_categories = "" | split: ", "  %}
-{% assign featured_collections = "me, domestic-construction, consulting, food-and-drink, music" | split: ", "  %}
+{% assign featured_collections = "me, domestic-construction, food-and-drink, music" | split: ", "  %}
 
 {% for cat in featured_categories %}<!-- use site.page-categories instead for all categories defined in config -->
 

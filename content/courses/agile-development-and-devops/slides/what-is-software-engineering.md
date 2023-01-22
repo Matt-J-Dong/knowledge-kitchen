@@ -1,6 +1,7 @@
 ---
 title: What is Software Engineeering
 layout: presentation
+categories: [course-notes]
 ---
 
 class: center, middle

@@ -1,6 +1,7 @@
 ---
 title: Interfaces
 layout: presentation
+categories: [course-notes]
 ---
 
 class: center, middle

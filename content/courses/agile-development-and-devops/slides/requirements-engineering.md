@@ -1,6 +1,7 @@
 ---
 title: Requirements Engineering
 layout: presentation
+categories: [course-notes]
 ---
 
 class: center, middle
@@ -136,6 +137,7 @@ Example:
 
 > Title: Purchase items
 > layout: presentation
+> categories: [course-notes]
 >
 > Actor: Customer
 >

@@ -1,6 +1,7 @@
 ---
 title: Entity-Relationship Diagrams
 layout: presentation
+categories: [course-notes]
 ---
 
 class: center, middle

@@ -1,6 +1,7 @@
 ---
 title: Inheritance & Polymorphism
 layout: presentation
+categories: [course-notes]
 ---
 
 class: center, middle

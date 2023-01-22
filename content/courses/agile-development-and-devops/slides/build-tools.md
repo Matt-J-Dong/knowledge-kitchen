@@ -1,6 +1,7 @@
 ---
 title: System Build Tools
 layout: presentation
+categories: [course-notes]
 ---
 
 class: center, middle

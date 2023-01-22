@@ -1,6 +1,7 @@
 ---
 title: Object Orientation
 layout: presentation
+categories: [course-notes]
 ---
 
 class: center, middle

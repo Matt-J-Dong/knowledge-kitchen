@@ -6,7 +6,7 @@ Code to generate and automatically deploy a simple personal website.
 
 ## Deployed site
 
-View the [deployed site](https://i6.cims.nyu.edu/~ab1258/tmp).
+View the [deployed site](https://knowledge.kitchen).
 
 ## Running locally
 

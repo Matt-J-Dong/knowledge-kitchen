@@ -1,6 +1,7 @@
 ---
 title: The Processing Framework
 layout: presentation
+categories: [course-notes]
 ---
 
 class: center, middle

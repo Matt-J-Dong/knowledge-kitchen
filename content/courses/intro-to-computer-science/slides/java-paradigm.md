@@ -1,6 +1,7 @@
 ---
 title: The Java Paradigm
 layout: presentation
+categories: [course-notes]
 ---
 
 class: center, middle

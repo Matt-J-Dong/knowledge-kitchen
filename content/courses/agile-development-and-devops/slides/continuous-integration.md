@@ -1,6 +1,7 @@
 ---
 title: Continuous Integration
 layout: presentation
+categories: [course-notes]
 ---
 
 class: center, middle

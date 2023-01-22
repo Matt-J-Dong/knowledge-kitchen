@@ -1,6 +1,7 @@
 ---
 title: Plain Text Data Formats
 layout: presentation
+categories: [course-notes]
 ---
 
 class: center, middle

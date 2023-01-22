@@ -1,6 +1,7 @@
 ---
 title: MongoDB CRUD
 layout: presentation
+categories: [course-notes]
 ---
 
 class: center, middle
@@ -457,6 +458,7 @@ Documents can be created and stored into collections by importing from a JSON da
 db.books.insert({
   title: "Pattern Recognition",
 layout: presentation
+categories: [course-notes]
   author: "William Gibson",
   year_written: 2003,
   edition: "Penguin",
@@ -566,6 +568,7 @@ db.books.find(
     _id: 0,
     title: 1,
     layout: presentation,
+    categories: [course - notes],
   }
 )
 ```
@@ -843,6 +846,7 @@ db.books.remove({
   author: "William Gibson",
   title: "Pattern Recognition",
   layout: presentation,
+  categories: [course - notes],
 })
 ```
 

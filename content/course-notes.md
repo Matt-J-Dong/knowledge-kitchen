@@ -1,9 +1,9 @@
 ---
 title: Knowledge Kitchen
-permalink: /
+permalink: /course-notes/
 ---
 
-{% assign featured_categories = "courses" | split: ", "  %}
+{% assign featured_categories = "course-notes" | split: ", "  %}
 {% assign featured_collections = "" | split: ", "  %}
 
 {% for cat in featured_categories %}<!-- use site.page-categories instead for all categories defined in config -->
@@ -55,4 +55,4 @@ permalink: /
 
 {% endfor %} <!-- col -->
 
-... <a href='{{ "/" | prepend:site.baseurl  }}'>main</a> stuff
+... <a href='{{ "/other/" | prepend:site.baseurl  }}'>other</a> stuff

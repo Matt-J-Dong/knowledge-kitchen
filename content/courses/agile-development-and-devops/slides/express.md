@@ -1,6 +1,7 @@
 ---
 title: Express.js
 layout: presentation
+categories: [course-notes]
 ---
 
 class: center, middle
@@ -326,6 +327,7 @@ app.get("/json-example", (req, res) => {
   const body = {
     title: "Hello!",
 layout: presentation
+categories: [course-notes]
     heading: "Hello!",
     message: "Welcome to this JSON document, served up by Express",
     imagePath: "/static/images/donkey.jpg",
@@ -1043,6 +1045,7 @@ app.get("/", function (req, res) {
   res.render("index", {
     title: "My First Templated Site",
 layout: presentation
+categories: [course-notes]
     message: "Welcome to your first dynamic templated page!!",
   })
 })

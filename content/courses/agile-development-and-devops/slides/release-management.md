@@ -1,6 +1,7 @@
 ---
 title: Release Management
 layout: presentation
+categories: [course-notes]
 ---
 
 class: center, middle

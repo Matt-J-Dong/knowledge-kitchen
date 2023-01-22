@@ -1,6 +1,7 @@
 ---
 title: Responsive Design
 layout: presentation
+categories: [course-notes]
 ---
 
 class: center, middle

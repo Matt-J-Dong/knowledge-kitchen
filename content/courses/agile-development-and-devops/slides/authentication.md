@@ -1,6 +1,7 @@
 ---
 title: App Authentication
 layout: presentation
+categories: [course-notes]
 ---
 
 class: center, middle

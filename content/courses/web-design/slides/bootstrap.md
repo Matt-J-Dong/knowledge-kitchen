@@ -1,6 +1,7 @@
 ---
 title: The Bootstrap Front-End Framework
 layout: presentation
+categories: [course-notes]
 ---
 
 class: center, middle
