@@ -2,7 +2,7 @@ github-org-name: bloombar
 github-repo-name: knowledge-kitchen
 repository: bloombar/amos-web-site
 url: https://knowledge.kitchen
-baseurl: /
+baseurl: ""
 permalink: pretty
 title: Knowledge Kitchen
 description: >
