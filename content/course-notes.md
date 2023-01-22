@@ -55,4 +55,4 @@ permalink: /course-notes/
 
 {% endfor %} <!-- col -->
 
-... <a href='{{ "/other/" | prepend:site.baseurl  }}'>other</a> stuff
+... <a href='{{ "/" | prepend:site.baseurl  }}'>main</a> stuff
