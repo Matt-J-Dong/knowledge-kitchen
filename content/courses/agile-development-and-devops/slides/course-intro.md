@@ -19,6 +19,7 @@ Agile Software Development & DevOps
 1. [Topics](#topics)
 1. [Structure](#structure)
 1. [Software](#software)
+1. [What others say](#evaluations)
 1. [Conclusions](#conclusions)
 
 ---
@@ -364,7 +365,7 @@ You will need a variety of software tools. Here are a few to set up right now.
 
 --
 
-- A UNIX-like shell, such as in Mac's **Terminal** or **Git Bash** (part of Git for Windows) or Windows Subsystem for Linux (WSL). I do not recommend using any Windows shells.
+- A UNIX-like shell, such as in Mac's **Terminal** or **Git Bash** (part of Git for Windows) or [Windows Subsystem for Linux](https://learn.microsoft.com/en-us/windows/wsl/install) (WSL). Do not use the Windows' default Powershell.
 
 --
 
@@ -432,6 +433,116 @@ template: resources
 
 - Video course: [Databases for Node.js Developers](https://www.linkedin.com/learning/databases-for-node-js-developers/), by Daniel Khan
 - [Mongoose](https://mongoosejs.com/) official site, including tutorials and documentation.
+
+---
+
+name: evaluations
+
+# What Others Say
+
+--
+
+## The Good
+
+A sample of comments left by former students:
+
+--
+
+> It is really a hands–on experience in developing an app! Really happy to see an idea coming to life.
+
+--
+
+> The structure of this course is so well–organized! This is definitely the number one course I will recommend people take if they want to learn about software development.
+
+--
+
+> The group work we had to do throughout the entire semester helped me learn many things about time management and as well as how real life projects in developing apps and websites work.
+
+--
+
+> I really liked the class! Prof. Bloomberg is eloquent and thorough in his explanations of concepts.
+
+---
+
+template: evaluations
+
+## The Bad
+
+A sample of comments left by former students:
+
+--
+
+> There was too much time spent on the unnecessary parts. This led to the situation that there was not much time for the actual project work. I think it will be better if we could directly dive into Sprint 0.
+
+--
+
+> More focus and time spent on the second half of the course
+
+--
+
+> It could improve by not having quizzes, as they don’t help me improve or learn much.
+
+--
+
+> This class had really unclear grading – graders need to be more fair and clear with their rubrics and grading system
+
+--
+
+> While it is the nature of a teamwork class, I would like for there to be more protections in place for students who are doing the bulk of the work.
+
+---
+
+template: evaluations
+
+## The Ugly
+
+--
+
+> It made me learn that terrible graders can ruin an otherwise decent class.
+
+--
+
+> The worst. the whole course is a shitshow. My biggest waste of tuition fee.
+
+--
+
+> The worst professor ever. Pissed every single day taking his class. He just never cares much about his classes.
+
+--
+
+> If you have no prior web dev exp with MERN stack, AVOID unless want to self-study for 4 months and work with trolls in group pj. Lecture is absolute joke, only terminology, then expects you to know everything and start coding. 0 support, arrogant & vauge to questions usually. Grade: A tho cuz I wrote tons. But, AVOID, dont try!!!
+
+---
+
+template: evaluations
+
+## Time commitment
+
+![Time commitment](../assets/course-intro/time-commitment.png)
+
+---
+
+template: evaluations
+
+## Openness
+
+![Openness](../assets/course-intro/openness.png)
+
+---
+
+template: evaluations
+
+## Challenge
+
+![Challenge](../assets/course-intro/challenge.png)
+
+---
+
+template: evaluations
+
+## Knowledge increase
+
+![Knowledge increase](../assets/course-intro/knowledge-increase.png)
 
 ---
 

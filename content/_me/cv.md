@@ -128,16 +128,17 @@ Bachelors in [Brain & Cognitive Sciences](http://www.bcs.rochester.edu/about/ove
 
 ### Winemaking
 
-Master vintner at [Château Bloomberg]({{ site.baseurl }}/food-and-drink/château-bloomberg/.
+Master vintner at [Château Bloomberg](//{{site.url}}{{ site.baseurl }}/food-and-drink/château_bloomberg/).
 
 ### Movement
 
-Waking, [running, biking]({{ site.baseurl }}/me/exercise-history), skiing. On occasion, I break out the old unicycle, but mostly I ride my electric wheel.
+Waking, [running, biking]({{site.url}}{{ site.baseurl }}/me/amos-exercise-history/), skiing. On occasion, I break out the old unicycle, but mostly I ride my electric unicycle.
 
 ### Domestic construction
 
 - Arts & Crafts home restoration
-- [Sauna design]({{ site.baseurl }}//architecture/banya-design/)
+- [Sauna design]({{ site.baseurl }}//domestic-construction/banya-design/)
+- [Kitchen design]({{ site.baseurl }}//domestic-construction/plywood-kitchen/)
 
 ### Music
 
