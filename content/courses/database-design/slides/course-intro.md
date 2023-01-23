@@ -19,6 +19,7 @@ Database Design
 1. [Topics](#topics)
 1. [Structure](#structure)
 1. [Software](#software)
+1. [What Others Say](#evaluations)
 1. [Conclusions](#conclusions)
 
 ---
@@ -379,6 +380,104 @@ template: software
 ## Using Bash on Windows
 
 WINDOWS USERS - you should use Git Bash or Windows Subsystem for Linux (WSL) rather than Windows' default Powershell or other command line shell program. To set Git Bash or WSL as the default terminal shell within Visual Studio Code, you can try to follow the instructions in [the second answer here](https://stackoverflow.com/questions/42606837/how-do-i-use-bash-on-windows-from-the-visual-studio-code-integrated-terminal) by **Mahade Walid** and edited by **FruityOatyBar** (ignore the first answe, which is outdated).
+
+---
+
+name: evaluations
+
+# What Others Say
+
+--
+
+## The Good
+
+A sample of comments left by former students:
+
+--
+
+> Overall, I thought this course did a phenomenal job of introducing me to a variety of new skills, concepts, and techniques with which I had no prior experience.
+
+--
+
+> Assignments were definitely time–consuming, but learned a lot about a lot of different databases which I know will be useful down the road.
+
+--
+
+> Lectures were great—Prof. Bloomberg has a quiet but palpable confidence and delivered the material effectively. He's open to questions and discussion and his graders give relatively timely feedback. Assignments were also helpful in learning the content.
+
+--
+
+> Really nicely structured course. Professor Bloomberg definitely knows his stuff. Good balance between new content and interesting exercises to reinforce the material.
+
+---
+
+template: evaluations
+
+## The Bad
+
+A sample of comments left by former students:
+
+--
+
+> I personally wasn't a huge fan of the quizzes, even though I did well on all of them. I thought they often had unclear/vague questions and weren't the best way to reinforce the material. Given that there needs to be some quiz–like structure in the class, though, I'm not really sure if there's an alternative. So maybe clearer and less ambiguous questions on the quizzes would be nice.
+
+--
+
+> I wish it wasn't so monotonous. The information in lecture was all in the slides – there were only a few times that live coding occurred, and even then only for a few minutes.
+
+--
+
+> Speed up a little bit on the powerpoint (knowledge), and slow down a little bit on teaching the practical abilities.
+
+--
+
+> I would add smaller projects in between larger biweekly projects to help enhance material.
+
+---
+
+template: evaluations
+
+## The Ugly
+
+--
+
+> I learned more from the tutors than I did from Amos. Avoid his as a teacher at all costs.
+
+--
+
+> Learned nothing much from the course. Also; the course name is pretty baffling. What I expected was to learn some inner mechanisms of relational databases. However; the actual course was more like getting the feet wet for different tools like MongoDB; web apps; and even Pandas. Some might have enjoyed the course but at least I didn't because I don't think this is something that is supposed to be taught in college.
+
+---
+
+template: evaluations
+
+## Time commitment
+
+![Time commitment](../assets/course-intro/time-commitment.png)
+
+---
+
+template: evaluations
+
+## Openness
+
+![Openness](../assets/course-intro/openness.png)
+
+---
+
+template: evaluations
+
+## Challenge
+
+![Challenge](../assets/course-intro/challenge.png)
+
+---
+
+template: evaluations
+
+## Knowledge increase
+
+![Knowledge increase](../assets/course-intro/knowledge-increase.png)
 
 ---
 
