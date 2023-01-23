@@ -56,3 +56,5 @@ permalink: /
 {% endfor %} <!-- col -->
 
 ... <a href='{{ "/other/" | prepend:site.baseurl  }}'>other</a> stuff
+
+<small>Looking for the old mediawiki site? It is being retired. Check [here](https://knowledge.kitchen/mediawiki).</small>
