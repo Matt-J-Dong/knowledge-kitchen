@@ -165,7 +165,7 @@ the two sides of the operator have the same value.
 - false == false (is true)
 - false == true (is false)
 
-===The != matrix===
+### The != matrix
 
 The opposite of the "==" operator. It evaluates an expression to true if
 the two sides of the operator do NOT have the same value.

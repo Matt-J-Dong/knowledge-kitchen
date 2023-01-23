@@ -26,7 +26,7 @@ In this course, we introduce principles and applications of databases. We begin 
 
 All books are available online:
 
-- via Online Access through [NYU Libraries](https://library.nyu.edu/) / [O&#39;Reilly Safari](https://learning.oreilly.com/) (log in using your NYU Net ID email address; see notes on [accessing via Safari apps](https://knowledge.kitchen/mediawiki/Accessing_books_on_O'Reilly_Safari))
+- via Online Access through [NYU Libraries](https://library.nyu.edu/) / [O&#39;Reilly Safari](https://learning.oreilly.com/) (log in using your NYU Net ID email address; see notes on [accessing via Safari apps](../oreilly-safari-online/))
 - free html / ebook versions supplied by author or publisher
 - database platform&#39;s documentation
 
