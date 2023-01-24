@@ -12,6 +12,8 @@ After seeing a distant cousin riding a unicycle as a child, I was enthralled and
 
 Three decades later, I visited a friend who showed me an electric unicycle sitting in his garage. After about 10 minutes riding it, I fell off the wagon and relapsed into a downward spiral of unicycle addiction from which I have not yet recovered. As of the time of this writing, I ride a standard KingSong S18 with an IRC TR-1 knobby tire, enjoying street riding to/from work as well as off-roading on local trails.
 
+![KingSong S18 electric unicycle](../assets/unicycle.jpg)
+
 ## Harry Chapin 10k Run Against Hunger
 
 The Bloomberg family, particularly my dad, has been running in this
