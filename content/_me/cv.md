@@ -3,7 +3,7 @@ title: Amos Bloomberg
 categories: [me]
 ---
 
-![Amos Bloomberg, circa 2015]({{site.baseurl}}/content/assets/amos/headshot_2015.jpg)
+![Amos Bloomberg, circa 2015]({{site.url}}{{site.baseurl}}/content/assets/amos/headshot_2015.jpg)
 
 As a professor who practices what he preaches, Amos has over 20 years' experience building things, both practical and whimsical. His most rewarding professional validation to date was standing on a crowded NYC subway surreptitiously looking down at a seated passenger reading a Metro newspaper article about himself and his work. That happened only once, though Amos has been responsible for the research, strategy, design, and implementation of dozens of popular apps, websites, and marketing campaigns on behalf of a wide range of clients, from the UN to Facebook and Microsoft, from Amex to Juicy Couture, from MTV to Amazon, and on to small non-profits and tech startups whose names are rightly forgotten to history. His own award-winning non-commercial creative work has been featured in Forbes, the New York Times, the Village Voice, and Wired, etc, etc.
 
@@ -137,12 +137,12 @@ Waking, [running, biking]({{site.url}}{{ site.baseurl }}/me/amos-exercise-histor
 ### Domestic construction
 
 - Arts & Crafts home restoration
-- [Sauna design]({{ site.baseurl }}//domestic-construction/banya-design/)
-- [Kitchen design]({{ site.baseurl }}//domestic-construction/plywood-kitchen/)
+- [Sauna design]({{site.url}}{{ site.baseurl }}//domestic-construction/banya-design/)
+- [Kitchen design]({{site.url}}{{ site.baseurl }}//domestic-construction/plywood-kitchen/)
 
 ### Music
 
-Studied classical guitar for many years, first with private instruction from a professor from the [Manhattan School of Music](https://www.msmnyc.edu/) and then at the [Eastman School of Music](https://www.esm.rochester.edu/). Years ago, I used to occasionally release experimental concept albums, including [Normal Music For Strange People]({{ site.baseurl }}/music/normal-music-for-strange-people/) and [The Complete Dance Party]({{ site.baseurl }}/music/the-complete-dance-party/).
+Studied classical guitar for many years, first with private instruction from a professor from the [Manhattan School of Music](https://www.msmnyc.edu/) and then at the [Eastman School of Music](https://www.esm.rochester.edu/). Years ago, I used to occasionally release experimental concept albums, including [Normal Music For Strange People]({{site.url}}{{ site.baseurl }}/music/normal-music-for-strange-people/) and [The Complete Dance Party]({{site.url}}{{ site.baseurl }}/music/the-complete-dance-party/).
 
 ### Service
 

@@ -2,6 +2,8 @@
 title: Château Bloomberg
 ---
 
+![The Château](../assets/the-chateau.jpg)
+
 Château Bloomberg is a multi-generational family-operated maker of fine
 fermented beverages, including
 [wineberry](https://en.wikipedia.org/wiki/Rubus_phoenicolasius) wine,
