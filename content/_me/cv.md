@@ -40,7 +40,7 @@ New York, NY 10012<br />
 - 2013 – 2019, Clinical Assistant Professor
 - 2011 – 2013, Adjunct Faculty
 
-Training the next generation of engineers, designers, and hackers. Teaching applied courses in [interactive product design with custom electronic circuits](https://knowledge.kitchen/Physical Computing Syllabus), [software engineering](https://nyu-software-engineering.github.io/course-materials), [computer science](/content/courses/intro-to-computer-science), [web design](/content/courses/web-design), [database design](/content/courses/database-design), [computer programming](/content/courses/intro-to-programming).
+Training the next generation of engineers, designers, and hackers. Teaching applied courses in [interactive product design with custom electronic circuits](https://knowledge.kitchen/mediawiki/Physical_Computing_Syllabus), [software engineering](/content/courses/software-engineering/schedule/), [computer science](/content/courses/intro-to-computer-science/schedule/), [web design](/content/courses/web-design/schedule/), [database design](/content/courses/database-design/schedule/), [computer programming](/content/courses/intro-to-programming/schedule/).
 
 ### New York University, School of Professional Studies
 
@@ -128,7 +128,7 @@ Bachelors in [Brain & Cognitive Sciences](http://www.bcs.rochester.edu/about/ove
 
 ### Winemaking
 
-Master vintner at [Château Bloomberg](//{{site.url}}{{ site.baseurl }}/food-and-drink/château_bloomberg/).
+Master vintner at [Château Bloomberg]({{site.url}}{{ site.baseurl }}/food-and-drink/château-bloomberg/).
 
 ### Movement
 
@@ -136,9 +136,9 @@ Waking, [running, biking]({{site.url}}{{ site.baseurl }}/me/amos-exercise-histor
 
 ### Domestic construction
 
-- Arts & Crafts home restoration
-- [Sauna design]({{site.url}}{{ site.baseurl }}//domestic-construction/banya-design/)
-- [Kitchen design]({{site.url}}{{ site.baseurl }}//domestic-construction/plywood-kitchen/)
+- [Arts & Crafts tile patterns]({{site.url}}{{ site.baseurl }}/domestic-construction/arts-and-crafts-bathroom-tile-floor/)
+- [Sauna design]({{site.url}}{{ site.baseurl }}/domestic-construction/banya-design/)
+- [Kitchen design]({{site.url}}{{ site.baseurl }}/domestic-construction/plywood-kitchen/)
 
 ### Music
 
