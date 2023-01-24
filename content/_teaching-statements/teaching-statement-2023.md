@@ -1,6 +1,6 @@
 ---
 title: Teaching Statement (2 February 2023)
-date: 2023-02-01
+date: 2023-01-01
 ---
 
 _As part of my application to be promoted to Clinical Professor in 2023, I was required to submit a personal statement. Here it is._

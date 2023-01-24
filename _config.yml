@@ -24,6 +24,8 @@ collections:
     output: true
   poems:
     output: true
+  teaching-statements:
+    output: true
 collections_dir: content
 page-categories: [
 #     food-and-drink,
@@ -102,6 +104,12 @@ defaults:
     values:
       layout: github
       categories: [poems]
+  - scope:
+      path: "**/_teaching-statements"
+      type: "teaching-statements"
+    values:
+      layout: github
+      categories: [teaching-statements]
 
 plugins:
   - jekyll-feed
