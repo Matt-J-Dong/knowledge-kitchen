@@ -34,5 +34,5 @@ See [ideas on design composition]]([wikipedia:Composition\_(visual_arts)|more)
 The foreground and background images you choose have a huge impact on the impression your design makes. Never compromise on image quality, unless you are intentionally going for the "poor quality" look.
 
 - use the image in its original proportions
-- verify the [dimensions]](/content/courses/web-design/slides/digital-imagery/#29) match your needs
-- make sure the [resolution]](/content/courses/web-design/slides/digital-imagery/#30) is suitable for your use
+- verify the [dimensions]](/content/courses/web-design/slides/digital-imagery/#raster-image-features) match your needs
+- make sure the [resolution]](/content/courses/web-design/slides/digital-imagery/#raster-image-features) is suitable for your use

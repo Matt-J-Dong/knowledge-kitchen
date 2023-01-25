@@ -1082,7 +1082,7 @@ When a client requests data from a server, that data must be returned in a parti
 
 - The servers always return text (i.e. strings) in their HTTP responses
 - For simple static web content, that format of the data is simple HTML returned by the server
-- For more complex needs, [Javascript Object Notation](https://knowledge.kitchen/mediawiki/Introduction_to_JSON) (JSON) is the preferred format.
+- For more complex needs, [Javascript Object Notation](/content/courses/database-design/json/) (JSON) is the preferred format.
 - Once on the client side, this JSON is interpreted as Javascript code.
 
 ---

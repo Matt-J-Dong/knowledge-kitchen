@@ -739,7 +739,7 @@ name: props-2
 
 ## Accepting arguments
 
-Using Javascript's object [destructuring](../javascript-intro/#100), this function could be rewritten:
+Using Javascript's object [destructuring](../javascript-intro/#destructuring), this function could be rewritten:
 
 ```jsx
 const Article = ( { heading, paragraph }) => {

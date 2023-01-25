@@ -173,6 +173,8 @@ There are a few key features that influence the quality, display size, and file 
 
 --
 
+name: raster-image-features
+
 - **Bit depth** - how many bits are available for the numeric codes used to represent the color of each pixel.
 
 ---
