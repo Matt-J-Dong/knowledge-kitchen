@@ -38,8 +38,8 @@ name: introductions-1
 
 Introduction to Computer Science
 
-- Syllabus: [syllabus](../../syllabus)
-- Schedule: [schedule](../../)
+- Syllabus: [syllabus](../../syllabus/)
+- Schedule: [schedule](../../schedule/)
 
 ---
 
@@ -114,7 +114,7 @@ Programs usually think of data in terms of rigid stereotypes.
 - dictionaries/hash tables/associative arrays
 - nonetypes/null/nil
 
-Review [data types](https://nyu-python-programming.github.io/course-material/data-types).
+Review [data types](/content/courses/intro-to-programming/data-types/).
 
 ---
 
@@ -132,7 +132,7 @@ response = input("What's brown and sticky?")
 print("'{}' is correct!".format(response.capitalize()))
 ```
 
-Review [input and output](https://nyu-python-programming.github.io/course-material/input-output).
+Review [input and output](/content/courses/intro-to-programming/input-output/).
 
 ---
 
@@ -147,7 +147,7 @@ if this or that and the_other is not also_that:
     thats_wonderful()
 ```
 
-Review [boolean logic](https://nyu-python-programming.github.io/course-material/boolean-logic) and [decision-making](https://nyu-python-programming.github.io/course-material/decision-making).
+Review [boolean logic](/content/courses/intro-to-programming/boolean-logic/) and [decision-making](/content/courses/intro-to-programming/decision-making/).
 
 ---
 
@@ -162,7 +162,7 @@ def thats_wonderful():
     print("That's wonderful")
 ```
 
-Review [functions](https://nyu-python-programming.github.io/course-material/functions).
+Review [functions](/content/courses/intro-to-programming/functions/).
 
 ---
 
@@ -184,7 +184,7 @@ def thats_wonderful():
         print("Okay...")
 ```
 
-Review [modules](https://nyu-python-programming.github.io/course-material/modules).
+Review [modules](/content/courses/intro-to-programming/modules/).
 
 ---
 
@@ -206,7 +206,7 @@ while i < 10:
     i = i + 1
 ```
 
-Review [for loops](https://nyu-python-programming.github.io/course-material/loops-for) and [while loops](https://nyu-python-programming.github.io/course-material/loops-while).
+Review [for loops](/content/courses/intro-to-programming/loops-for/) and [while loops](/content/courses/intro-to-programming/loops-while/).
 
 ---
 
@@ -224,7 +224,7 @@ favorite_foods = [
     ]
 ```
 
-Review [lists](https://nyu-python-programming.github.io/course-material/list-basics) and [more lists](https://nyu-python-programming.github.io/course-material/list-more).
+Review [lists](/content/courses/intro-to-programming/list-basics/) and [more lists](/content/courses/intro-to-programming/list-more/).
 
 ---
 
@@ -242,7 +242,7 @@ phone_numbers: {
 }
 ```
 
-Review [dictionaries](https://nyu-python-programming.github.io/course-material/dictionary-basics) and [more dictionaries](https://nyu-python-programming.github.io/course-material/dictionary-more).
+Review [dictionaries](/content/courses/intro-to-programming/dictionary-basics/) and [more dictionaries](/content/courses/intro-to-programming/dictionary-more/).
 
 ---
 
@@ -263,7 +263,7 @@ for line in f:
     data = line.split(",")
 ```
 
-Review [text files](https://nyu-python-programming.github.io/course-material/text-files).
+Review [text files](/content/courses/intro-to-programming/text-files/).
 
 ---
 
@@ -281,7 +281,7 @@ if pos > 0:
     data = text.split(",")
 ```
 
-Review [strings](https://nyu-python-programming.github.io/course-material/string-basics) and [string formatting](https://nyu-python-programming.github.io/course-material/string-formatting).
+Review [strings](/content/courses/intro-to-programming/string-basics/) and [string formatting](/content/courses/intro-to-programming/string-formatting/).
 
 ---
 
@@ -309,7 +309,7 @@ I_am_not
 math.pow(washington, 2) + park
 ```
 
-Review [variables, literals, and expressions](https://nyu-python-programming.github.io/course-material/variables-literals-expressions).
+Review [variables, literals, and expressions](/content/courses/intro-to-programming/variables-literals-expressions/).
 
 ---
 
@@ -381,7 +381,7 @@ me = new Professor("Foo Barstein")
 me.say_hello(you)
 ```
 
-Jump ahead half a semester to [object-oriented programming](../../slides/object-orientation)
+Jump ahead half a semester to [object-oriented programming](../object-orientation/)
 
 ---
 
@@ -426,7 +426,7 @@ Can you answer these questions?
 
 --
 
-Review [basic computer concepts](https://nyu-python-programming.github.io/course-material/basic-computer-concepts).
+Review [basic computer concepts](/content/courses/intro-to-programming/basic-computer-concepts/).
 
 ---
 
@@ -463,7 +463,7 @@ x = r"First line\nSecond line"
 print(x)
 ```
 
-Learn about [raw strings](https://nyu-python-programming.github.io/course-material/string-raw).
+Learn about [raw strings](/content/courses/intro-to-programming/string-raw/).
 
 ---
 
@@ -485,7 +485,7 @@ data = [row1, row2, row3]
 print(data[1][2])
 ```
 
-Jump ahead half a semester to [multi-dimensional arrays](../../slides/arrays-multidimensional).
+Jump ahead half a semester to [multi-dimensional arrays](../arrays-multidimensional/).
 
 ---
 
@@ -504,7 +504,7 @@ def foo(x):
 foo(1)
 ```
 
-Jump ahead almost a semester to [recursion](../../slides/recursion).
+Jump ahead almost a semester to [recursion](../recursion/).
 
 ---
 
@@ -557,7 +557,7 @@ template: how-course-works
 
 ## Reading
 
-Reading assignments from [the textbook](../../syllabus) and elsewhere each class. The textbook is quite thorough.
+Reading assignments from [the textbook](../../syllabus/#textbook) and elsewhere each class. The textbook is quite thorough.
 
 ---
 
@@ -569,7 +569,7 @@ You will have somewhere around 10 assignments.
 
 You lose 10 points for each day late and we do not accept submissions more than 3 days late.
 
-See the complete [lateness policy](../../syllabus).
+See the complete [lateness policy](../../syllabus/#late-policy).
 
 ---
 
@@ -626,7 +626,7 @@ We use Dicord for all communication outside of the classroom.
 
 You must create a private channel in Discord.
 
-Check the complete [Discord details](../../syllabus).
+Check the complete [Discord details](../../syllabus/).
 
 ---
 
@@ -638,7 +638,7 @@ Tutors are waiting to answer your questions virtually all day every day of the w
 
 See them often. See them fast.
 
-Check the complete [tutoring schedule](../../syllabus).
+Check the complete [tutoring schedule](../../syllabus/#tutoring).
 
 ---
 
@@ -650,7 +650,7 @@ Check the complete [tutoring schedule](../../syllabus).
 
 ## Review the syllabus
 
-The [syllabus](../../syllabus) contains basic information on how this course works.
+The [syllabus](../../syllabus/) contains basic information on how this course works.
 
 ---
 
@@ -658,7 +658,7 @@ The [syllabus](../../syllabus) contains basic information on how this course wor
 
 ## Bookmark the schedule
 
-The [schedule](../../) contains a day-by-day breakdown of everything you need to know and do in this course.
+The [schedule](../../schedule/) contains a day-by-day breakdown of everything you need to know and do in this course.
 
 ---
 

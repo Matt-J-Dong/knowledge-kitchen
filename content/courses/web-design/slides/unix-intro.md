@@ -53,7 +53,7 @@ Unix commands are necessary in order to be able to navigate directories/folders 
 
 - all Unix commands are run in the command-line interface, such as that offered by Terminal on OS X or Git Bash on Windows.
 
-Review [basic Unix commands](https://knowledge.kitchen/Basic_UNIX/Linux_file_management).
+Review [basic Unix commands](https://knowledge.kitchen/mediawiki/Basic_UNIX/Linux_file_management).
 
 ---
 
@@ -70,7 +70,7 @@ foo@bar$ pwd
 
 It's fine to read about this, but you'll learn better if you try it out yourself.
 
-Read more about the [current working directory](https://knowledge.kitchen/Basic_computer_concepts#The_working_directory).
+Read more about the [current working directory](https://knowledge.kitchen/mediawiki/Basic_computer_concepts#The_working_directory).
 
 ---
 

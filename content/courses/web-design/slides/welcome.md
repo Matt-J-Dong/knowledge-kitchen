@@ -34,8 +34,8 @@ name: main-links
 
 Introduction to Web Design & Computer Principles
 
-- Syllabus: https://github.com/nyu-web-design/course-materials/blob/main/syllabus.md
-- Schedule: https://github.com/nyu-web-design/course-materials/blob/main/README.md
+- Syllabus: /content/courses/web-design/syllabus/
+- Schedule: /content/courses/web-design/schedule/
 
 ---
 

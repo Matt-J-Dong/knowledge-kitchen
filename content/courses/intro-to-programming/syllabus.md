@@ -8,7 +8,7 @@ Before going any further, note that we will not cover the following:
 
 - Desktop and [mobile app development](https://knowledge.kitchen/mediawiki/Android_mobile_app_development)
 - [Web site development](/content/courses/web-design/)
-- [Game design](https://knowledge.kitchen/Interactive_programming_with_Processing)
+- [Game design](https://knowledge.kitchen/mediawiki/Interactive_programming_with_Processing)
 - [Computer music and digital audio](/content/courses/web-design/slides/digital-audio/)
 - [Databases](/content/courses/database-design/)
 - [Interactive product design](https://knowledge.kitchen/mediawiki/Category:Physical_Computing)

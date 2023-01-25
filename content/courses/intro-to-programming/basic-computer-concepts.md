@@ -104,7 +104,7 @@ they have many other uses as well.
 
 When we say text files contain only text, this can be a bit misleading,
 depending on the context. All data, including text, is fundamentally
-stored as numbers ([binary data](https://knowledge.kitchen/Number_systems#Binary_numbers) in particular) in
+stored as numbers ([binary data](https://knowledge.kitchen/mediawiki/Number_systems#Binary_numbers) in particular) in
 memory, storage, and in the computer's processor. So what we really
 mean when we call something a 'text file' is that the only data stored
 in text files are the binary numbers that represent text characters. So
@@ -194,10 +194,10 @@ data, and other non-text data.
 
 The software used to create or edit binary files depends on the sub-type
 of binary file. For example, we typically use software such as [Adobe
-Photoshop]https://knowledge.kitchen/Category:Photoshop) or [Adobe
-Illustrator]https://knowledge.kitchen/Category:Illustrator) when dealing with image
+Photoshop]https://knowledge.kitchen/mediawiki/Category:Photoshop) or [Adobe
+Illustrator]https://knowledge.kitchen/mediawiki/Category:Illustrator) when dealing with image
 files and audio editing software such as
-[Audacity](https://knowledge.kitchen/Category:Audio) when editing audio files.
+[Audacity](https://knowledge.kitchen/mediawiki/Category:Audio) when editing audio files.
 
 ## File names
 
@@ -276,10 +276,10 @@ potential users:
 
 File permissions can be adjusted either through the options in the [file browsing application](#browsing-files)
 of an operating system's [Graphical User
-Interface](https://knowledge.kitchen/Popular_operating_systems_and_trends#Graphical_User_Interface),
+Interface](https://knowledge.kitchen/mediawiki/Popular_operating_systems_and_trends#Graphical_User_Interface),
 such the 'Properties' context menu in Windows Explorer on Windows or
 the 'Info' context menu in Finder on Mac, or [through the UNIX command
-line](https://knowledge.kitchen/Basic_UNIX/Linux_file_management#Change_permissions_of_any_file_or_directory).
+line](/content/courses/web-design/slides/unix-intro/#23).
 
 ## Compressed files
 
@@ -301,7 +301,7 @@ Common compression formats:
 file. It is capable of compressing many files and even folders into a
 single, smaller, file. This zipped file usually has the .zip file
 extension. Most [operating
-systems](https://knowledge.kitchen/Popular_operating_systems_and_trends) come built in
+systems](https://knowledge.kitchen/mediawiki/Popular_operating_systems_and_trends) come built in
 with software to create zip files. - There are several very common
 compression formats for raster images published on the web, such as
 JPEG, GIF, and PNG. These usually have the file extensions .jpg, .gif,
@@ -365,7 +365,7 @@ become corrupted and unusable.
 
 ## Operating systems
 
-[Operating systems](https://knowledge.kitchen/Popular_operating_systems_and_trends)
+[Operating systems](https://knowledge.kitchen/mediawiki/Popular_operating_systems_and_trends)
 define the ways in which you, the human, access the resources available
 on a computer. And they also make sure that the hardware resources of
 the computer are shared nicely among all the different programs that are
@@ -491,7 +491,7 @@ amazing site, is often called a
 to differentiate your desktop computer or mobile device from the web
 '[servers](http://en.wikipedia.org/wiki/Server_29)' that permanently
 store the web pages (which are simply [text files](../text-files) with [ HTML
-code]https://knowledge.kitchen/Category:HTML) in them) that you visit.
+code]https://knowledge.kitchen/mediawiki/Category:HTML) in them) that you visit.
 
 Web servers make the data stored on them available to the public by
 allowing any other computer to connect to them and ask for the files.
@@ -545,7 +545,7 @@ A web browser is a piece of software that runs on the client computer.
 It allows the user of the client machine (i.e. _you_) to browse files
 (i.e. web pages) that are stored on web servers (i.e. computers)
 connected to the Internet and [made available to anyone to
-view](https://knowledge.kitchen/Basic_UNIX/Linux_file_management#Change_permissions_of_any_file_or_directory).
+view](/content/courses/web-design/slides/unix-intro/#23).
 
 ## The internet vs. the web
 

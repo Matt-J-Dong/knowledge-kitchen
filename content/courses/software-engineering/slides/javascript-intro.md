@@ -1082,7 +1082,7 @@ When a client requests data from a server, that data must be returned in a parti
 
 - The servers always return text (i.e. strings) in their HTTP responses
 - For simple static web content, that format of the data is simple HTML returned by the server
-- For more complex needs, [Javascript Object Notation](https://knowledge.kitchen/Introduction_to_JSON) (JSON) is the preferred format.
+- For more complex needs, [Javascript Object Notation](https://knowledge.kitchen/mediawiki/Introduction_to_JSON) (JSON) is the preferred format.
 - Once on the client side, this JSON is interpreted as Javascript code.
 
 ---
@@ -1413,11 +1413,11 @@ Javascript can be run either _within a web page_ loaded by a web browser (i.e. c
 
 --
 
-- _Javascript in the web browser_ is primarily focused on interacting with the browser's [Document Object Model](https://knowledge.kitchen/Document_Object_Model) (DOM) - an object created automatically by the browser itself that contains and allows the Javsacript to modify all the contents, styles, and behaviors of the web page currently loaded in the browser's memory.
+- _Javascript in the web browser_ is primarily focused on interacting with the browser's [Document Object Model](https://knowledge.kitchen/mediawiki/Document_Object_Model) (DOM) - an object created automatically by the browser itself that contains and allows the Javsacript to modify all the contents, styles, and behaviors of the web page currently loaded in the browser's memory.
 
 --
 
-- _Node.js runs on the server_, where there is no currently-loaded web page. So the DOM does not exist and is not of any use in controlling server behavior. Node.js has its own set of [built-in variables and objects](https://knowledge.kitchen/Node.js_notes#Global_variables).
+- _Node.js runs on the server_, where there is no currently-loaded web page. So the DOM does not exist and is not of any use in controlling server behavior. Node.js has its own set of [built-in variables and objects](https://github.com/nyu-software-engineering/node-js-examples/blob/master/notes.md).
 
 ---
 

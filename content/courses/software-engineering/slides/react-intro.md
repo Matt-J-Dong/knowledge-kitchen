@@ -187,7 +187,7 @@ Actually, we're more-or-less finished explaining HTML in 2 slides.
 
 What you just learned is how to code for content that will be displayed in the `body` of a web page - the part of an HTML document that represents the visible content.
 
-- Learn [a bit more about HTML documents](https://nyu-web-design.github.io/course-materials/html/).
+- Learn [a bit more about HTML documents](/content/courses/web-design/slides/html/).
 
 ---
 
@@ -254,7 +254,7 @@ That's almost it. But there is one very important part of CSS code that we will 
 
 There are a variety of ways... the latest greatest is to **CSS Flexbox** - see [a simple example](https://jsfiddle.net/barsteinfoo/adgrp9zb/13/) - flexbox is how layouts should be done with React.
 
-- First learn [more about basic CSS](https://nyu-web-design.github.io/course-materials/css/).
+- First learn [more about basic CSS](/content/courses/web-design/slides/css/).
 - Then learn [more about layouts with CSS flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox).
 
 ---

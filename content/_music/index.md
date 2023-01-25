@@ -8,6 +8,11 @@ I studied classical guitar for many years, first with private instruction from a
 {% for page in site[page.collection] %}
 
 {% if page.path contains "index.md" %}<!-- ignore landing pages -->
-{% else %}<li><a href="{{ page.url | prepend:site.baseurl  }}">{{ page.title }}</a></li>{% endif %}
+
+{% else %}
+
+  <li><a href="{{ page.url | prepend:site.baseurl  }}">{{ page.title }}</a></li>
+
+{% endif %}
 
 {% endfor %}

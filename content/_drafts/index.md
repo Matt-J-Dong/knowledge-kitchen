@@ -1,6 +1,6 @@
 ---
-title: "Poems"
-permalink: /poems/
+title: "Drafts"
+permalink: /drafts/
 ---
 
 {% for page in site[page.collection] %}

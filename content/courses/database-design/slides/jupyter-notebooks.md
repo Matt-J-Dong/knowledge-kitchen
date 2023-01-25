@@ -134,7 +134,7 @@ While GitHub does not include an execution environment for Jupyter Notebooks, it
 
 --
 
-- See [this example notebook](https://github.com/nyu-database-design/course-materials/blob/master/slid../assets/jupyter/welcome.ipynb) hosted on GitHub.
+- See [this example notebook](../assets/jupyter/welcome.ipynb).
 
 ---
 
