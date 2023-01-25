@@ -85,7 +85,7 @@ Putting it all together.
 
 Material that is not currently included in the course, but may be of interest to some:
 
-| Date | Class | Topics                   | Notes                                                          | Helpful resources | Quiz due                                               | Exercise due |
+| Date | Class | Topics                   | Notes                                                          | Helpful resources | Quiz                                                   | Exercise due |
 | :--- | :---- | :----------------------- | :------------------------------------------------------------- | :---------------- | :----------------------------------------------------- | :----------- |
 | n/a  | n/a   | GitHub for Collaboration | [GitHub for Collaboration](../slides/github-for-collaboration) |                   |                                                        |              |
 | n/a  | n/a   | Team Psychology          | [Team Psychology](../slides/team-psychology)                   |                   | [Teamwork](https://forms.gle/drCMYj1pQA68T2xi9)        |              |
