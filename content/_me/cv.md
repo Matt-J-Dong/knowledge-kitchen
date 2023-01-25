@@ -36,7 +36,8 @@ New York, NY 10012<br />
 
 2011 – , New York, NY
 
-- 2019 - Present, Clinical Associate Professor
+- 2023 - ?, ?
+- 2019 - 2023, Clinical Associate Professor
 - 2013 – 2019, Clinical Assistant Professor
 - 2011 – 2013, Adjunct Faculty
 

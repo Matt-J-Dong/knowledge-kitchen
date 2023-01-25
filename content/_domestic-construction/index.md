@@ -1,9 +1,9 @@
 ---
-title: "Food & Drink"
-permalink: /food-and-drink/
+title: "Domestic Construction"
+permalink: /domestic-construction/
 ---
 
-_Sustenance plays an important part of most people's lives._
+_Some building projects pursued as a homeowner._
 
 {% for page in site[page.collection] %}
 
